@@ -1,0 +1,15 @@
+Office,Address,State,Country,Company
+Los Gatos,"<span itemprop=""streetAddress"">100 Winchester Cir</span>","<span class=""location__state"">CA</span>",United States,Netflix
+Los Angeles,"<span itemprop=""streetAddress"">5808 Sunset Blvd</span>","<span class=""location__state"">CA</span>",United States,Netflix
+New York,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">NY</span>",United States,Netflix
+Washington,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">DC</span>",United States,Netflix
+Paris,"<span itemprop=""streetAddress"">148 Rue de l'Université</span>",,France,Netflix
+Berlin,"<span itemprop=""streetAddress"">DE-BER-FRS, Friedrichstraße 88</span>",,Germany,Netflix
+Mexico City,"<span itemprop=""streetAddress""></span>",,Mexico,Netflix
+Amsterdam,"<span itemprop=""streetAddress"">Karperstraat 8</span>",,Netherlands,Netflix
+Amsterdam,"<span itemprop=""streetAddress"">Stadhouderskade 55</span>",,Netherlands,Netflix
+Manila,"<span itemprop=""streetAddress""></span>",,Philippines,Netflix
+Singapore,"<span itemprop=""streetAddress""></span>",,Singapore,Netflix
+Madrid,"<span itemprop=""streetAddress""></span>",,Spain,Netflix
+Hsinchu,"<span itemprop=""streetAddress""></span>",,"Taiwan, Province of China",Netflix
+London,"<span itemprop=""streetAddress""></span>",,United Kingdom,Netflix

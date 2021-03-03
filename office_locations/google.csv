@@ -1,0 +1,104 @@
+Office,Address,State,Country,Company
+Mountain View,"<span itemprop=""streetAddress"">1600 Amphitheatre Pkwy</span>","<span class=""location__state"">CA</span>",United States,Google
+Ann Arbor,"<span itemprop=""streetAddress"">2300 Traverwood Dr</span>","<span class=""location__state"">MI</span>",United States,Google
+Atlanta,"<span itemprop=""streetAddress"">10 10th St NE</span>","<span class=""location__state"">GA</span>",United States,Google
+Austin,"<span itemprop=""streetAddress"">500 W 2nd St #2900</span>","<span class=""location__state"">TX</span>",United States,Google
+Boulder,"<span itemprop=""streetAddress"">2600 Pearl St</span>","<span class=""location__state"">CO</span>",United States,Google
+Boulder,"<span itemprop=""streetAddress"">2930 Pearl St</span>","<span class=""location__state"">CO</span>",United States,Google
+Boulder,"<span itemprop=""streetAddress"">US-BLD-WALN3333, 3333 Walnut St</span>","<span class=""location__state"">CO</span>",United States,Google
+Cambridge,"<span itemprop=""streetAddress"">355 Main St</span>","<span class=""location__state"">MA</span>",United States,Google
+Chapel Hill,"<span itemprop=""streetAddress"">200 W Franklin St</span>","<span class=""location__state"">NC</span>",United States,Google
+Chicago,"<span itemprop=""streetAddress"">210 N Carpenter St</span>","<span class=""location__state"">IL</span>",United States,Google
+Chicago,"<span itemprop=""streetAddress"">320 N Morgan St #600</span>","<span class=""location__state"">IL</span>",United States,Google
+Detroit,"<span itemprop=""streetAddress"">52 Henry St 3rd Floor</span>","<span class=""location__state"">MI</span>",United States,Google
+Irvine,"<span itemprop=""streetAddress"">19510 Jamboree Road</span>","<span class=""location__state"">CA</span>",United States,Google
+Kirkland,"<span itemprop=""streetAddress"">777 6th Street South</span>","<span class=""location__state"">WA</span>",United States,Google
+Los Angeles,"<span itemprop=""streetAddress"">340 Main St</span>","<span class=""location__state"">CA</span>",United States,Google
+Madison,"<span itemprop=""streetAddress"">US-MSN-WASH811, 811 E Washington Ave #700</span>","<span class=""location__state"">WI</span>",United States,Google
+Miami,"<span itemprop=""streetAddress"">1450 Brickell Ave #900</span>","<span class=""location__state"">FL</span>",United States,Google
+New York,"<span itemprop=""streetAddress"">111 8th Ave</span>","<span class=""location__state"">NY</span>",United States,Google
+Pittsburgh,"<span itemprop=""streetAddress"">6425 Penn Ave</span>","<span class=""location__state"">PA</span>",United States,Google
+Playa Vista,"<span itemprop=""streetAddress"">12422 Bluff Creek Dr</span>","<span class=""location__state"">CA</span>",United States,Google
+Portland,"<span itemprop=""streetAddress"">Wells Fargo Building, 309 SW 6th Ave</span>","<span class=""location__state"">OR</span>",United States,Google
+Redwood City,"<span itemprop=""streetAddress"">US-RWC-SEA6, 1600 Seaport Blvd</span>","<span class=""location__state"">CA</span>",United States,Google
+Reston,"<span itemprop=""streetAddress"">1875 Explorer St 10th Floor</span>","<span class=""location__state"">VA</span>",United States,Google
+San Bruno,"<span itemprop=""streetAddress"">901 Cherry Avenue</span>","<span class=""location__state"">CA</span>",United States,Google
+San Diego,"<span itemprop=""streetAddress"">6420 Sequence Dr 
+Suite 400</span>","<span class=""location__state"">CA</span>",United States,Google
+San Francisco,"<span itemprop=""streetAddress"">345 Spear St</span>","<span class=""location__state"">CA</span>",United States,Google
+Seattle,"<span itemprop=""streetAddress"">601 N. 34th Street</span>","<span class=""location__state"">WA</span>",United States,Google
+Sunnyvale,"<span itemprop=""streetAddress"">803 11th Avenue</span>","<span class=""location__state"">CA</span>",United States,Google
+Washington,"<span itemprop=""streetAddress"">US-WAS-CAP, 25 Massachusetts Ave NW</span>","<span class=""location__state"">DC</span>",United States,Google
+Buenos Aires,"<span itemprop=""streetAddress"">Alicia M. De Justo 350, 2nd Floor</span>",,Argentina,Google
+Melbourne,"<span itemprop=""streetAddress"">161 Collins St</span>",,Australia,Google
+Sydney,"<span itemprop=""streetAddress"">48 Pirrama Rd</span>",,Australia,Google
+Wien,"<span itemprop=""streetAddress"">Graben 19</span>",,Austria,Google
+Etterbeek,"<span itemprop=""streetAddress"">Steenweg op Etterb. 180</span>",,Belgium,Google
+Belo Horizonte,"<span itemprop=""streetAddress"">Boulevard Corporate Tower, Av. dos Andradas, 3000 - Andares 14-17, Santa Efigênia</span>",,Brazil,Google
+São Paulo,"<span itemprop=""streetAddress"">Av. Brigadeiro Faria Lima, 3477</span>",,Brazil,Google
+Kitchener,"<span itemprop=""streetAddress"">51 Breithaupt Street</span>",,Canada,Google
+Toronto,"<span itemprop=""streetAddress"">111 Richmond St W</span>",,Canada,Google
+Las Condes,"<span itemprop=""streetAddress"">Santiago - Av Costanera Sur 2782</span>",,Chile,Google
+Beijing,"<span itemprop=""streetAddress"">6th Floor, Tower B, Raycom InfoTech Park 
+No. 2 Kexueyuan South Road 
+Zhongguancun</span>",,China,Google
+Guangzhou Shi,"<span itemprop=""streetAddress"">383 Tianhe Rd, Tian He Zhong Xin, Tianhe Qu</span>",,China,Google
+Shanghai,"<span itemprop=""streetAddress"">100 Century Ave, Lu Jia Zui, Pudong Xinqu</span>",,China,Google
+Bogota,"<span itemprop=""streetAddress"">Carrera 11A 94 - 45
+Centro Empresarial Oxo Center</span>",,Colombia,Google
+Praha,"<span itemprop=""streetAddress"">Stroupežnického 3191/17</span>",,Czech Republic,Google
+Aarhus,"<span itemprop=""streetAddress"">5524, Åbogade 15</span>",,Denmark,Google
+København,"<span itemprop=""streetAddress"">Skt. Petri Passage 5</span>",,Denmark,Google
+Paris,"<span itemprop=""streetAddress"">8 Rue de Londres-15-15 Bis Rue de Clichy</span>",,France,Google
+Berlin,"<span itemprop=""streetAddress"">Tucholskystraße 2</span>",,Germany,Google
+Hamburg,"<span itemprop=""streetAddress"">ABC-Straße 19</span>",,Germany,Google
+München,"<span itemprop=""streetAddress"">Erika-Mann-Straße 33</span>",,Germany,Google
+Athens,"<span itemprop=""streetAddress"">Fragkokklisias 7</span>",,Greece,Google
+Hong Kong,"<span itemprop=""streetAddress"">1 Matheson St, Causeway Bay</span>",,Hong Kong,Google
+Bengaluru,"<span itemprop=""streetAddress"">No. 3, RMZ Infinity - Tower E
+Old Madras Road
+4th and 5th Floors</span>",,India,Google
+Gurugram,"<span itemprop=""streetAddress"">Sector 15, Part II Village Silokhera</span>",,India,Google
+Hyderabad,"<span itemprop=""streetAddress"">Survey No. 13, DivyaSree Omega
+Kondapur Village</span>",,India,Google
+Mumbai,"<span itemprop=""streetAddress"">3 North Avenue
+Maker Maxity, Bandra Kurla Complex
+Bandra East</span>",,India,Google
+Jakarta,"<span itemprop=""streetAddress"">Pacific Century Place Tower Level 45 SCBD Lot 10, Jl. Jend. Sudirman No.53, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota</span>",,Indonesia,Google
+Dublin 4,"<span itemprop=""streetAddress"">Gordon House
+Barrow St</span>",,Ireland,Google
+Haifa,"<span itemprop=""streetAddress"">Building 30 MATAM, Advanced Technology Centre</span>",,Israel,Google
+Tel Aviv-Yafo,"<span itemprop=""streetAddress"">Yigal Alon 98</span>",,Israel,Google
+Milano,"<span itemprop=""streetAddress"">Porta Nuova Isola, Building C, Via Federico Confalonieri 4</span>",,Italy,Google
+Tokyo,"<span itemprop=""streetAddress"">Roppongi Hills Mori Tower
+6-10-1 Roppongi
+Minato-ku</span>",,Japan,Google
+Tokyo,"<span itemprop=""streetAddress"">Shibuya Stream, 3-21-3 Shibuya-ku</span>",,Japan,Google
+Kuala Lumpur,"<span itemprop=""streetAddress"">axiata tower, Kuala Lumpur Sentral</span>",,Malaysia,Google
+Ciudad de México,"<span itemprop=""streetAddress"">Google Mexico, S. de R.L. de C.V.
+Montes Urales 445
+Lomas de Chapultepec</span>",,Mexico,Google
+Amsterdam,"<span itemprop=""streetAddress"">Claude Debussylaan 34</span>",,Netherlands,Google
+Oslo,"<span itemprop=""streetAddress"">Bryggegata 6</span>",,Norway,Google
+Warszawa,"<span itemprop=""streetAddress"">Emilii Plater 53</span>",,Poland,Google
+Wrocław,"<span itemprop=""streetAddress"">Gen. Jozefa Bema nr 2</span>",,Poland,Google
+Lisboa,"<span itemprop=""streetAddress"">Av. da Liberdade 110</span>",,Portugal,Google
+Moskva,"<span itemprop=""streetAddress"">Balchug Plaza, Balchug Street, 7</span>",,Russian Federation,Google
+Singapore,"<span itemprop=""streetAddress"">70 Pasir Panjang Road, #03-71, 
+Mapletree Business City</span>",,Singapore,Google
+Johannesburg,"<span itemprop=""streetAddress"">35 Ballyclare Drive Building E</span>",,South Africa,Google
+Seoul,"<span itemprop=""streetAddress"">22nd Floor, Gangnam Finance Center
+152 Teheran-ro, Gangnam-gu</span>",,Korea (Republic of),Google
+Madrid,"<span itemprop=""streetAddress"">Plaza Pablo Ruiz Picasso, I</span>",,Spain,Google
+Stockholm,"<span itemprop=""streetAddress"">Kungsbron 2</span>",,Sweden,Google
+Zürich,"<span itemprop=""streetAddress"">Google Building 110, Brandschenkestrasse 110</span>",,Switzerland,Google
+New Taipei City,"<span itemprop=""streetAddress"">Banqiao District, New Taipei City</span>",,"Taiwan, Province of China",Google
+Taipei,"<span itemprop=""streetAddress"">No. 7 XinYi Road Section 5</span>",,"Taiwan, Province of China",Google
+Bangkok,"<span itemprop=""streetAddress"">57 Park Ventures Ecoplex
+14th Floor, Wireless Road</span>",,Thailand,Google
+Istanbul,"<span itemprop=""streetAddress"">Eski Buyukdere Caddesi No: 209</span>",,Turkey,Google
+Dubai,"<span itemprop=""streetAddress"">TECOM Zone, Dubai Internet City</span>",,United Arab Emirates,Google
+London,"<span itemprop=""streetAddress"">1-13 St Giles High St</span>",,United Kingdom,Google
+London,"<span itemprop=""streetAddress"">6 Pancras Square</span>",,United Kingdom,Google
+London,"<span itemprop=""streetAddress"">Belgrave House
+76 Buckingham Palace Road</span>",,United Kingdom,Google

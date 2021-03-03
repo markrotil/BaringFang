@@ -1,0 +1,234 @@
+Office,Address,State,Country,Company
+Seattle,"<span itemprop=""streetAddress"">410 Terry Ave N</span>","<span class=""location__state"">WA</span>",United States,Amazon
+Arlington,"<span itemprop=""streetAddress"">Crystal City</span>","<span class=""location__state"">VA</span>",United States,Amazon
+Atlanta,"<span itemprop=""streetAddress"">3333 Piedmont Rd NE</span>","<span class=""location__state"">GA</span>",United States,Amazon
+Austin,"<span itemprop=""streetAddress"">11501 Alterra Pkwy</span>","<span class=""location__state"">TX</span>",United States,Amazon
+Baltimore,"<span itemprop=""streetAddress"">2010 Broening Hwy</span>","<span class=""location__state"">MD</span>",United States,Amazon
+Bellevue,"<span itemprop=""streetAddress"">425 106th Ave NE</span>","<span class=""location__state"">WA</span>",United States,Amazon
+Boardman,"<span itemprop=""streetAddress"">73577 Lewis and Clark Dr</span>","<span class=""location__state"">OR</span>",United States,Amazon
+Boulder,"<span itemprop=""streetAddress"">0009279</span>","<span class=""location__state"">CO</span>",United States,Amazon
+Breinigsville,"<span itemprop=""streetAddress"">705 Boulder Dr</span>","<span class=""location__state"">PA</span>",United States,Amazon
+Brooklyn,"<span itemprop=""streetAddress"">850 3rd Ave, Brooklyn</span>","<span class=""location__state"">NY</span>",United States,Amazon
+Caledonia,"<span itemprop=""streetAddress"">4500 68th St SE</span>","<span class=""location__state"">MI</span>",United States,Amazon
+Campbellsville,"<span itemprop=""streetAddress"">1051 S Columbia Ave</span>","<span class=""location__state"">KY</span>",United States,Amazon
+Campbellsville,"<span itemprop=""streetAddress"">1188 S Columbia Ave</span>","<span class=""location__state"">KY</span>",United States,Amazon
+Carlisle,"<span itemprop=""streetAddress"">40 Logistics Dr</span>","<span class=""location__state"">PA</span>",United States,Amazon
+Carteret,"<span itemprop=""streetAddress"">308 Middlesex Ave</span>","<span class=""location__state"">NJ</span>",United States,Amazon
+Charleston,"<span itemprop=""streetAddress"">225 Infinity Dr</span>","<span class=""location__state"">TN</span>",United States,Amazon
+Charlotte,"<span itemprop=""streetAddress"">300 Dalton Ave</span>","<span class=""location__state"">NC</span>",United States,Amazon
+Chattanooga,"<span itemprop=""streetAddress"">7200 Discovery Drive</span>","<span class=""location__state"">TN</span>",United States,Amazon
+Chester,"<span itemprop=""streetAddress"">1901 Meadowville Technology Pkwy</span>","<span class=""location__state"">VA</span>",United States,Amazon
+Chicago,"<span itemprop=""streetAddress"">227 W Monroe St</span>","<span class=""location__state"">IL</span>",United States,Amazon
+Columbus,"<span itemprop=""streetAddress"">2114 N High St</span>","<span class=""location__state"">OH</span>",United States,Amazon
+Coppell,"<span itemprop=""streetAddress"">940 W Bethel Rd</span>","<span class=""location__state"">TX</span>",United States,Amazon
+Cupertino,"<span itemprop=""streetAddress"">10201 Torre Ave</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Dallas,"<span itemprop=""streetAddress"">33333 Lyndon B Johnson Fwy</span>","<span class=""location__state"">TX</span>",United States,Amazon
+Detroit,"<span itemprop=""streetAddress"">150 W Jefferson Srv Rd</span>","<span class=""location__state"">MI</span>",United States,Amazon
+East Palo Alto,"<span itemprop=""streetAddress"">1900 University Ave</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Fall River,"<span itemprop=""streetAddress"">1180 Innovation Way</span>","<span class=""location__state"">MA</span>",United States,Amazon
+Florence Township,"<span itemprop=""streetAddress"">309 Cedar Ln, Florence</span>","<span class=""location__state"">NJ</span>",United States,Amazon
+Fort Worth,"<span itemprop=""streetAddress"">700 Westport Pkwy</span>","<span class=""location__state"">TX</span>",United States,Amazon
+Hazleton,"<span itemprop=""streetAddress"">550 Oak Ridge Rd, Hazle Township</span>","<span class=""location__state"">PA</span>",United States,Amazon
+Hebron,"<span itemprop=""streetAddress"">3680 Langley Dr</span>","<span class=""location__state"">KY</span>",United States,Amazon
+Herndon,"<span itemprop=""streetAddress"">12900 Worldgate Dr</span>","<span class=""location__state"">VA</span>",United States,Amazon
+Huntington,"<span itemprop=""streetAddress"">500 Kinetic Dr</span>","<span class=""location__state"">WV</span>",United States,Amazon
+Indianapolis,"<span itemprop=""streetAddress"">710 S Girls School Rd</span>","<span class=""location__state"">IN</span>",United States,Amazon
+Irvine,"<span itemprop=""streetAddress"">40 Pacifica, 40 Pacifica #100</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Irving,"<span itemprop=""streetAddress"">2700 Regent Blvd</span>","<span class=""location__state"">TX</span>",United States,Amazon
+Kenosha,"<span itemprop=""streetAddress"">3501 120th Ave</span>","<span class=""location__state"">WI</span>",United States,Amazon
+Lakeland,"<span itemprop=""streetAddress"">1760 County Line Rd</span>","<span class=""location__state"">FL</span>",United States,Amazon
+Lewisberry,"<span itemprop=""streetAddress"">500 McCarthy Dr</span>","<span class=""location__state"">PA</span>",United States,Amazon
+Lexington,"<span itemprop=""streetAddress"">1850 Mercer Rd</span>","<span class=""location__state"">KY</span>",United States,Amazon
+Logan Township,"<span itemprop=""streetAddress"">2277 Center Square Rd</span>","<span class=""location__state"">NJ</span>",United States,Amazon
+Louisville,"<span itemprop=""streetAddress"">7230 Global Dr</span>","<span class=""location__state"">KY</span>",United States,Amazon
+Minneapolis,"<span itemprop=""streetAddress"">323 N Washington Ave</span>","<span class=""location__state"">MN</span>",United States,Amazon
+Minneapolis,"<span itemprop=""streetAddress"">763 Kasota Ave SE</span>","<span class=""location__state"">MN</span>",United States,Amazon
+Nashville,"<span itemprop=""streetAddress"">50 Airways Blvd</span>","<span class=""location__state"">TN</span>",United States,Amazon
+Newark,"<span itemprop=""streetAddress"">7 Riverview Ct #1b</span>","<span class=""location__state"">NJ</span>",United States,Amazon
+New Castle,"<span itemprop=""streetAddress"">1 Centerpoint Blvd</span>","<span class=""location__state"">DE</span>",United States,Amazon
+New York,"<span itemprop=""streetAddress"">450 W 33rd St</span>","<span class=""location__state"">NY</span>",United States,Amazon
+North Charleston,"<span itemprop=""streetAddress"">4900 Lacross Rd</span>","<span class=""location__state"">SC</span>",United States,Amazon
+North Las Vegas,"<span itemprop=""streetAddress"">3837 Bay Lake Trail</span>","<span class=""location__state"">NV</span>",United States,Amazon
+Petersburg,"<span itemprop=""streetAddress"">5000 Commerce Way</span>","<span class=""location__state"">VA</span>",United States,Amazon
+Philadelphia,"<span itemprop=""streetAddress"">700 Ramona Ave</span>","<span class=""location__state"">PA</span>",United States,Amazon
+Phoenix,"<span itemprop=""streetAddress"">5050 W Mohave St</span>","<span class=""location__state"">AZ</span>",United States,Amazon
+Pittsburgh,"<span itemprop=""streetAddress"">2250 Roswell Dr</span>","<span class=""location__state"">PA</span>",United States,Amazon
+Portland,"<span itemprop=""streetAddress"">1455 SW Broadway</span>","<span class=""location__state"">OR</span>",United States,Amazon
+Redondo Beach,"<span itemprop=""streetAddress"">2400 Marine Ave</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Reno,"<span itemprop=""streetAddress"">8000 N Virginia St</span>","<span class=""location__state"">NV</span>",United States,Amazon
+Robbinsville Township,"<span itemprop=""streetAddress"">50 New Canton Way</span>","<span class=""location__state"">NJ</span>",United States,Amazon
+Ruskin,"<span itemprop=""streetAddress"">3350 Laurel Ridge Ave</span>","<span class=""location__state"">FL</span>",United States,Amazon
+Salem,"<span itemprop=""streetAddress"">4775 Depot Ct SE</span>","<span class=""location__state"">OR</span>",United States,Amazon
+San Antonio,"<span itemprop=""streetAddress"">4848 Perrin Creek</span>","<span class=""location__state"">TX</span>",United States,Amazon
+San Diego,"<span itemprop=""streetAddress"">2727 Kurtz St</span>","<span class=""location__state"">CA</span>",United States,Amazon
+San Francisco,"<span itemprop=""streetAddress"">188 Spear St, San Francisco</span>","<span class=""location__state"">CA</span>",United States,Amazon
+San Francisco,"<span itemprop=""streetAddress"">475 Sansome St, San Francisco</span>","<span class=""location__state"">CA</span>",United States,Amazon
+San Jose,"<span itemprop=""streetAddress"">96 E San Fernando St</span>","<span class=""location__state"">CA</span>",United States,Amazon
+San Luis Obispo,"<span itemprop=""streetAddress"">1005 Monterey St</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Santa Barbara,"<span itemprop=""streetAddress"">1001 State St</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Santa Cruz,"<span itemprop=""streetAddress"">110 Cooper St #401</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Santa Monica,"<span itemprop=""streetAddress"">1620 26th St</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Seattle,"<span itemprop=""streetAddress"">2021 7th Ave</span>","<span class=""location__state"">WA</span>",United States,Amazon
+Seattle,"<span itemprop=""streetAddress"">207 Boren Ave N</span>","<span class=""location__state"">WA</span>",United States,Amazon
+Seattle,"<span itemprop=""streetAddress"">2127 7th Ave</span>","<span class=""location__state"">WA</span>",United States,Amazon
+Sterling,"<span itemprop=""streetAddress"">45121 Global Plaza</span>","<span class=""location__state"">VA</span>",United States,Amazon
+Sunnyvale,"<span itemprop=""streetAddress"">1100 Enterprise Way</span>","<span class=""location__state"">CA</span>",United States,Amazon
+Washington,"<span itemprop=""streetAddress"">601 New Jersey Ave NW #900</span>","<span class=""location__state"">DC</span>",United States,Amazon
+Westborough,"<span itemprop=""streetAddress"">8 Technology Dr</span>","<span class=""location__state"">MA</span>",United States,Amazon
+Woodbridge Township,"<span itemprop=""streetAddress"">275 Omar Ave, Avenel</span>","<span class=""location__state"">NJ</span>",United States,Amazon
+Madison,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">WI</span>",United States,Amazon
+Brisbane City,"<span itemprop=""streetAddress"">300 Queen St</span>",,Australia,Amazon
+Melbourne,"<span itemprop=""streetAddress"">8 Exhibition St</span>",,Australia,Amazon
+Sydney,"<span itemprop=""streetAddress"">2 Park St</span>",,Australia,Amazon
+Brussels,"<span itemprop=""streetAddress"">Avenue des Arts 27</span>",,Belgium,Amazon
+São Paulo,"<span itemprop=""streetAddress"">Edifício JK - Av. Chedid Jafet, 200 - Vila Olímpia</span>",,Brazil,Amazon
+Calgary,"<span itemprop=""streetAddress"">801 30 St NE</span>",,Canada,Amazon
+Montréal,"<span itemprop=""streetAddress"">3000 Rue Louis A Amos, Lachine</span>",,Canada,Amazon
+Toronto,"<span itemprop=""streetAddress"">120 Bremner Blvd #26/F</span>",,Canada,Amazon
+Toronto,"<span itemprop=""streetAddress"">40 King St W 47th Floor</span>",,Canada,Amazon
+Vancouver,"<span itemprop=""streetAddress"">510 W Georgia St</span>",,Canada,Amazon
+Beijing,"<span itemprop=""streetAddress"">56 E 4th Ring Rd Middle, Shi Li Pu, Chaoyang Qu</span>",,China,Amazon
+Changchun,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Chengdu,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Guangzhou,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Jinan,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Nanning,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Shanghai,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Shenyang,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Shenzhen,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Suzhou,"<span itemprop=""streetAddress"">Kunshan</span>",,China,Amazon
+Tianjin,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Wuhan,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Xiamen,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Zhongwei,"<span itemprop=""streetAddress""></span>",,China,Amazon
+Bogotá,"<span itemprop=""streetAddress"">Ac. 26 ##92-32</span>",,Colombia,Amazon
+San José,"<span itemprop=""streetAddress"">Zona Franca del Este Pinos</span>",,Costa Rica,Amazon
+Praha 6,"<span itemprop=""streetAddress"">11/2758 Evropská</span>",,Czech Republic,Amazon
+Сairo,"<span itemprop=""streetAddress"">HSBC Bank</span>",,Egypt,Amazon
+Helsinki,"<span itemprop=""streetAddress"">Helsinki</span>",,Finland,Amazon
+Boves,"<span itemprop=""streetAddress""></span>",,France,Amazon
+Brétigny-sur-Orge,"<span itemprop=""streetAddress"">Centre d'essai en vol, Rue Paul Badré</span>",,France,Amazon
+Lauwin-Planque,"<span itemprop=""streetAddress"">1 Rue Amazon</span>",,France,Amazon
+Montélimar,"<span itemprop=""streetAddress"">Bâtiment 2 Rue Joseph Lagarde</span>",,France,Amazon
+Paris,"<span itemprop=""streetAddress"">67 Boulevard du Général Leclerc</span>",,France,Amazon
+Saran,"<span itemprop=""streetAddress"">1401 Rue du Champ Rouge</span>",,France,Amazon
+Senlis,"<span itemprop=""streetAddress""></span>",,France,Amazon
+Sevrey,"<span itemprop=""streetAddress"">1 Rue Amazon - ZAC du Parc d'Activité du Val de Bourgogne - Distripôle Chalon</span>",,France,Amazon
+Aachen,"<span itemprop=""streetAddress"">Aureliusstraße 2</span>",,Germany,Amazon
+Bad Hersfeld,"<span itemprop=""streetAddress"">Am Schloß Eichhof 1</span>",,Germany,Amazon
+Berlin,"<span itemprop=""streetAddress"">Krausenstraße 38</span>",,Germany,Amazon
+Bremen,"<span itemprop=""streetAddress"">Erich-Kühlmann-Straße 9</span>",,Germany,Amazon
+Brieselang,"<span itemprop=""streetAddress"">Havellandstraße 5</span>",,Germany,Amazon
+Cloppenburg,"<span itemprop=""streetAddress"">Brookweg 55</span>",,Germany,Amazon
+Dortmund,"<span itemprop=""streetAddress"">Kaltbandstraße 4</span>",,Germany,Amazon
+Dresden,"<span itemprop=""streetAddress"">Am Brauhaus 12</span>",,Germany,Amazon
+Düsseldorf,"<span itemprop=""streetAddress"">Am Fallhammer 27</span>",,Germany,Amazon
+Elmshorn,"<span itemprop=""streetAddress""></span>",,Germany,Amazon
+Erfurt,"<span itemprop=""streetAddress"">Joseph-Meyer-Straße 7</span>",,Germany,Amazon
+Frankenthal,"<span itemprop=""streetAddress"">Am Römig 5</span>",,Germany,Amazon
+Frankfurt,"<span itemprop=""streetAddress""></span>",,Germany,Amazon
+Graben,"<span itemprop=""streetAddress"">Amazonstraße 1</span>",,Germany,Amazon
+Hamburg,"<span itemprop=""streetAddress"">Am Bahndamm 70</span>",,Germany,Amazon
+Koblenz,"<span itemprop=""streetAddress"">Am Autobahnkreuz 1</span>",,Germany,Amazon
+Leipzig,"<span itemprop=""streetAddress"">Amazonstraße 1</span>",,Germany,Amazon
+Mönchengladbach,"<span itemprop=""streetAddress"">Hamburgring 10</span>",,Germany,Amazon
+Munich,"<span itemprop=""streetAddress"">Domagkstraße 28</span>",,Germany,Amazon
+Pforzheim,"<span itemprop=""streetAddress"">Im Buchbusch 1</span>",,Germany,Amazon
+Regensburg,"<span itemprop=""streetAddress"">Im Gewerbepark D55</span>",,Germany,Amazon
+Rheda-Wiedenbrück,"<span itemprop=""streetAddress"">Aurea 10</span>",,Germany,Amazon
+Rheinberg,"<span itemprop=""streetAddress"">Amazonstraße 1</span>",,Germany,Amazon
+Sülzetal,"<span itemprop=""streetAddress"">Bielefelder Str. 1</span>",,Germany,Amazon
+Tübingen,"<span itemprop=""streetAddress"">c/o Max-Planck-Institut für Intelligente Systeme, Max-Planck-Ring 4</span>",,Germany,Amazon
+Werne,"<span itemprop=""streetAddress"">Amazon Strasse 1, 59368</span>",,Germany,Amazon
+Winsen (Luhe),"<span itemprop=""streetAddress"">Borgwardstraße 10</span>",,Germany,Amazon
+Wunstorf,"<span itemprop=""streetAddress"">Adolf-Oesterheld-Straße 32</span>",,Germany,Amazon
+Wan Chai,"<span itemprop=""streetAddress"">Neich Tower, 128 Gloucester Rd, Wan Chai</span>",,Hong Kong,Amazon
+Bengaluru,"<span itemprop=""streetAddress"">26/1 Dr. Rajkumar Road Malleswaram, Rajajinagar</span>",,India,Amazon
+Chennai,"<span itemprop=""streetAddress"">Ratna Nagar, Virugambakkam</span>",,India,Amazon
+Hyderabad,"<span itemprop=""streetAddress"">Jairaj Orange Towers, Sy No: 116 &amp; 117, Road No: 02</span>",,India,Amazon
+Mumbai,"<span itemprop=""streetAddress"">North Block II, First Floor, Gate No.1, Campus, L&amp;T Emerald Isle Powai, Saki Vihar Rd, Krishna Nagar, Powai</span>",,India,Amazon
+New Delhi,"<span itemprop=""streetAddress"">49, Block B, Mohan Cooperative Industrial Estate, Badarpur</span>",,India,Amazon
+Pune,"<span itemprop=""streetAddress"">Pandurang Colony, Erandwane</span>",,India,Amazon
+Cork Airport Business Park,"<span itemprop=""streetAddress"">6400 Avenue 6000, Lehenagh More</span>",,Ireland,Amazon
+Dublin,"<span itemprop=""streetAddress"">Burlington Plaza, Burlington Rd</span>",,Ireland,Amazon
+Haifa,"<span itemprop=""streetAddress"">בניין 18, מת""מ</span>",,Israel,Amazon
+Hod Hasharon,"<span itemprop=""streetAddress""></span>",,Israel,Amazon
+Tel Aviv-Yafo,"<span itemprop=""streetAddress"">Derech Menachem Begin 121</span>",,Israel,Amazon
+Yokne'am Illit,"<span itemprop=""streetAddress""></span>",,Israel,Amazon
+Cagliari,"<span itemprop=""streetAddress"">Via Ottone Bacaredda, 60</span>",,Italy,Amazon
+Castelguglielmo,"<span itemprop=""streetAddress""></span>",,Italy,Amazon
+Chiasso,"<span itemprop=""streetAddress"">Strada Dogana Po, 2</span>",,Italy,Amazon
+Colleferro,"<span itemprop=""streetAddress""></span>",,Italy,Amazon
+Roma,"<span itemprop=""streetAddress"">Via della Magliana, 375</span>",,Italy,Amazon
+Torrazza Piemonte,"<span itemprop=""streetAddress""></span>",,Italy,Amazon
+Vercelli,"<span itemprop=""streetAddress"">Via Rita Levi Montalcini</span>",,Italy,Amazon
+Fukuoka,"<span itemprop=""streetAddress"">9 Tsunabamachi, Hakata Ward</span>",,Japan,Amazon
+Ichikawa ,"<span itemprop=""streetAddress"">2 Chome-13 Shiohama</span>",,Japan,Amazon
+Kawagoe,"<span itemprop=""streetAddress"">1-chōme-10-15 Minamidai</span>",,Japan,Amazon
+Kitahiroshima,"<span itemprop=""streetAddress"">2-chōme-5-6 Ōmagarikōgyōdanchi</span>",,Japan,Amazon
+Meguro City,"<span itemprop=""streetAddress"">Shimomeguro, 1 Chome−8−1</span>",,Japan,Amazon
+Odawara,"<span itemprop=""streetAddress"">4-chōme-5-1 Ōgichō</span>",,Japan,Amazon
+Osaka,"<span itemprop=""streetAddress"">138-7 Chikkoyawatamachi</span>",,Japan,Amazon
+Sendai,"<span itemprop=""streetAddress""></span>",,Japan,Amazon
+Tajimi,"<span itemprop=""streetAddress"">10-chōme-6 Asahigaoka</span>",,Japan,Amazon
+Tosu,"<span itemprop=""streetAddress"">3-chōme-1-3 Yayoigaoka</span>",,Japan,Amazon
+Luxembourg City,"<span itemprop=""streetAddress"">31-, 33 Rives de Clausen</span>",,Luxembourg,Amazon
+Mexico City,"<span itemprop=""streetAddress"">Juan Salvador Agraz 73</span>",,Mexico,Amazon
+Rabat,"<span itemprop=""streetAddress"">ARRIBAT CENTER, 44 Avenue Omar Ibn Al Khattab</span>",,Morocco,Amazon
+Amsterdam,"<span itemprop=""streetAddress"">Meester Treublaan 7</span>",,Netherlands,Amazon
+The Hague,"<span itemprop=""streetAddress"">Johanna Westerdijkplein 1</span>",,Netherlands,Amazon
+Bielany Wrocławskie,"<span itemprop=""streetAddress"">Logistyczna 6</span>",,Poland,Amazon
+Gdańsk,"<span itemprop=""streetAddress"">aleja Grunwaldzka 472</span>",,Poland,Amazon
+Gliwice,"<span itemprop=""streetAddress"">Bojkowska 80</span>",,Poland,Amazon
+Kołbaskowo,"<span itemprop=""streetAddress"">Kołbaskowo 156</span>",,Poland,Amazon
+Okmiany,"<span itemprop=""streetAddress"">Okmiany 3C</span>",,Poland,Amazon
+Pawlikowice,"<span itemprop=""streetAddress"">Pawlikowice 155</span>",,Poland,Amazon
+Sady,"<span itemprop=""streetAddress"">Poznańska 1d</span>",,Poland,Amazon
+Sosnowiec,"<span itemprop=""streetAddress"">Inwestycyjna 19</span>",,Poland,Amazon
+Warszawa,"<span itemprop=""streetAddress"">Grzybowska 62</span>",,Poland,Amazon
+București,"<span itemprop=""streetAddress"">Bulevardul Dimitrie Pompeiu nr. 4- 6</span>",,Romania,Amazon
+Iași,"<span itemprop=""streetAddress"">Strada Sfântul Lazăr 27</span>",,Romania,Amazon
+Singapore,"<span itemprop=""streetAddress"">23 Church St, 10</span>",,Singapore,Amazon
+Bratislava,"<span itemprop=""streetAddress"">Námestie 1. mája 7286/18</span>",,Slovakia,Amazon
+Sereď,"<span itemprop=""streetAddress"">Amazonska 4753/1</span>",,Slovakia,Amazon
+Sereď,"<span itemprop=""streetAddress"">Amazonska 4753/1</span>",,Slovakia,Amazon
+Cape Town,"<span itemprop=""streetAddress"">78 Roeland St, Gardens</span>",,South Africa,Amazon
+Seoul,"<span itemprop=""streetAddress"">508 Nonhyeon-ro, Yeoksam 1(il)-dong, Gangnam-gu</span>",,Korea (Republic of),Amazon
+Barcelona,"<span itemprop=""streetAddress"">Carrer de Tànger, 76</span>",,Spain,Amazon
+Dos Hermanas,"<span itemprop=""streetAddress"">Poligono Sen, 23</span>",,Spain,Amazon
+Illescas,"<span itemprop=""streetAddress"">Av. Logística, 13</span>",,Spain,Amazon
+Madrid,"<span itemprop=""streetAddress"">Calle de Ramírez de Prado, 5</span>",,Spain,Amazon
+Pozuelo de Alarcón,"<span itemprop=""streetAddress"">Vía de las Dos Castillas, 33D</span>",,Spain,Amazon
+Gothenburg,"<span itemprop=""streetAddress""></span>",,Sweden,Amazon
+Stockholm,"<span itemprop=""streetAddress"">Kungsgatan 49</span>",,Sweden,Amazon
+Stockholm,"<span itemprop=""streetAddress"">Stureplan 4 C 4tr</span>",,Sweden,Amazon
+Zürich,"<span itemprop=""streetAddress"">Seefeldstrasse 69</span>",,Switzerland,Amazon
+Taipei City,"<span itemprop=""streetAddress"">No. 32, Songren Road, Xinyi District</span>",,"Taiwan, Province of China",Amazon
+Istanbul,"<span itemprop=""streetAddress"">Buyukdere Cad. No. 185 Kanyon Ofis Binasi Kat. 6</span>",,Turkey,Amazon
+Altrincham,"<span itemprop=""streetAddress"">Manchester Airport, 6 Sunbank Ln</span>",,United Kingdom,Amazon
+Bardon Hill,"<span itemprop=""streetAddress"">Interlink Way E</span>",,United Kingdom,Amazon
+Barlborough,"<span itemprop=""streetAddress"">Gander Ln</span>",,United Kingdom,Amazon
+Birmingham,"<span itemprop=""streetAddress"">3a, Merlin Park Wood Lane, Erdington</span>",,United Kingdom,Amazon
+Bowburn,"<span itemprop=""streetAddress""></span>",,United Kingdom,Amazon
+Cambridge,"<span itemprop=""streetAddress"">One Station Square, Station Rd</span>",,United Kingdom,Amazon
+Coventry,"<span itemprop=""streetAddress"">1 Lyons Park 9DQ, Sayer Drive</span>",,United Kingdom,Amazon
+Darlington,"<span itemprop=""streetAddress"">Off A66 Link Road(B6279) DL1 4BF</span>",,United Kingdom,Amazon
+Daventry,"<span itemprop=""streetAddress"">4 Royal Oak Way N</span>",,United Kingdom,Amazon
+Doncaster,"<span itemprop=""streetAddress"">Balby Carr Bank</span>",,United Kingdom,Amazon
+Dunfermline,"<span itemprop=""streetAddress"">Amazon Way</span>",,United Kingdom,Amazon
+Dunstable,"<span itemprop=""streetAddress"">Boscombe Rd</span>",,United Kingdom,Amazon
+Edinburgh,"<span itemprop=""streetAddress"">2-4 Waterloo Pl</span>",,United Kingdom,Amazon
+Gourock,"<span itemprop=""streetAddress"">Cloch Rd &amp; Faulds Park Rd</span>",,United Kingdom,Amazon
+Great Sankey,"<span itemprop=""streetAddress"">1 Orion Blvd</span>",,United Kingdom,Amazon
+Hemel Hempstead,"<span itemprop=""streetAddress"">Boundary Way</span>",,United Kingdom,Amazon
+Kegworth,"<span itemprop=""streetAddress""></span>",,United Kingdom,Amazon
+Leeds,"<span itemprop=""streetAddress"">Logic Leeds Distribution Park, Pontefract Ln</span>",,United Kingdom,Amazon
+Over Hulton,"<span itemprop=""streetAddress"">Bridgewater Ave</span>",,United Kingdom,Amazon
+Peterborough,"<span itemprop=""streetAddress"">Unit 1, Kingston Park, Flaxley Rd</span>",,United Kingdom,Amazon
+Ridgmont,"<span itemprop=""streetAddress"">Marston Gate Distribution Centre, Badgers Rise</span>",,United Kingdom,Amazon
+Rugby,"<span itemprop=""streetAddress"">Amazon UK Services Ltd, Unit 3 Waver Way</span>",,United Kingdom,Amazon
+Rugeley,"<span itemprop=""streetAddress"">tower business park, Power Station Rd</span>",,United Kingdom,Amazon
+Severn Beach,"<span itemprop=""streetAddress"">Western Approach Distribution Park</span>",,United Kingdom,Amazon
+Skewen,"<span itemprop=""streetAddress"">Ffordd Amazon</span>",,United Kingdom,Amazon
+Sutton-in-Ashfield,"<span itemprop=""streetAddress"">Sherwood Way S</span>",,United Kingdom,Amazon
+Tilbury,"<span itemprop=""streetAddress"">London Distribution Park, Windrush Rd</span>",,United Kingdom,Amazon
