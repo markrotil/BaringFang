@@ -1,0 +1,86 @@
+Office,Address,Latitude,Longitude,Company
+ Dubai ,"TECOM Zone, Dubai Internet City Dubai, United Arab Emirates",25.0929,55.1591,Google
+ Haifa ,"Building 30 MATAM, Advanced Technology Center Haifa, 3190500 Israel ",32.78897,34.958432,Google
+ Istanbul ,"Eski Buyukdere Caddesi No: 209 34394 Istanbul, Turkey",41.081697,29.00859,Google
+ Johannesburg ,"35 Ballyclare Drive Building E Johannesburg 2191, South Africa",-26.0734457,28.032035,Google
+ Tel Aviv ,"Yigal Alon 98 Tel Aviv, 6789141 Israel ",32.070043,34.794087,Google
+ Bangalore ,"No. 3, RMZ Infinity - Tower E Old Madras Road 4th and 5th Floors Bangalore, 560 016, India",12.99332,77.660176,Google
+ Bangkok ,"57 Park Ventures Ecoplex 14th Floor, Wireless Road Bangkok, 10330, Thailand",13.742866,100.547983,Google
+ Beijing ,"6th Floor, Tower B, Raycom InfoTech Park No. 2 Kexueyuan South Road Zhongguancun Beijing 100190",39.9848878,116.3265708,Google
+ Guangzhou ,"Taikoo Hui Tower 1, No.383 Tianhe Road Guangzhou, 510620 China",23.1339728,113.3332488,Google
+ Gurgaon ,"Sector 15, Part II Village Silokhera Gurgaon 122001 India",28.460581,77.048194,Google
+ Hong Kong ,"1 Matheson Street Causeway Bay, Hong Kong",22.278203,114.18176,Google
+ Hyderabad ,"Survey No. 13, DivyaSree Omega Kondapur Village Hyderabad, Telangana 500084 India",17.458461,78.372452,Google
+ Jakarta ,"Pacific Century Place Tower Level 45 SCBD Lot 10, Jl. Jend. Sudirman No.53, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",-6.227664,106.808471,Google
+ Kuala Lumpur ,"Axiata Tower No. 9, Jalan Stesen Sentral 5 50470 Kuala Lumpur Malaysia",3.133445,101.684609,Google
+ Melbourne ,"161 Collins Street, Melbourne VIC 3000, Australia",-37.815328,144.968737,Google
+ Mumbai ,"3 North Avenue Maker Maxity, Bandra Kurla Complex Bandra East Mumbai, Maharashtra 400051 India",19.054364,72.850591,Google
+ Seoul ,"Google Korea LLC. 22nd Floor, Gangnam Finance Center 152 Teheran-ro, Gangnam-gu Seoul 06236 South Korea",37.500295,127.036843,Google
+ Shanghai ,"100 Century Avenue, Pudong Shanghai 200120 China",31.23464,121.507662,Google
+ Singapore ,"70 Pasir Panjang Road, #03-71, Mapletree Business City Singapore 117371",1.276466,103.798965,Google
+ Sydney ,"48 Pirrama Road Sydney, NSW 2009 Australia ",-33.866638,151.195672,Google
+ Taipei ,"No. 7 XinYi Road Section 5, Taipei Taiwan",25.033447,121.564901,Google
+ Tokyo - RPG ,"Roppongi Hills Mori Tower 6-10-1 Roppongi Minato-ku, Tokyo 106-6126 Japan",35.66047,139.729231,Google
+ Tokyo - STRM ,"Shibuya Stream 3-21-3 Shibuya Shibuya-ku, Tokyo 150-0002 Japan",35.6572564,139.7028246,Google
+ Aarhus ,Aabogade 15 8200 Aarhus Denmark,56.172249,10.187372,Google
+ Amsterdam ,"Claude Debussylaan 34 1082 MD, Amsterdam Netherlands",52.337801,4.872066,Google
+ Athens ,Fragkokklisias 7 Athens 151 25 Greece,38.03902,23.804595,Google
+ Berlin ,TucholskystraÃe 2 10117 Berlin Germany,52.5231079,13.39203120000002,Google
+ Brussels ,Chaussee d'Etterbeek 180 1040 Brussels Belgium,50.839315,4.380984,Google
+ Copenhagen ,Skt. Petri Passage 5 1165 Copenhagen Denmark,55.680452,12.570071,Google
+ Dublin ,Gordon House Barrow St Dublin 4 Ireland,53.3399526,-6.2360967,Google
+ Hamburg ,ABC-Strasse 19 20354 Hamburg Germany,53.553752,9.986229,Google
+ Lisbon ,"Avenida da Liberdade, 110 Lisbon, 1269-046, Portugal",38.718887,-9.143781,Google
+ London - 6PS ,6 Pancras Square London N1C 4AG United Kingdom,51.533311,-0.126026,Google
+ London - BEL ,Belgrave House 76 Buckingham Palace Road London SW1W 9TQ United Kingdom,51.494961,-0.146652,Google
+ London - CSG ,1-13 St Giles High St London WC2H 8AG United Kingdom,51.516027,-0.12755,Google
+ Madrid ,"Plaza Pablo Ruiz Picasso, I Madrid 28020 Spain",40.4505331,-3.6931161,Google
+ Milan ,"Porta Nuova Isola, Building C, Via Federico Confalonieri 4 20124 Milan Italy",45.486147,9.189546,Google
+ Moscow ,7 Balchug St Moscow 115035 Russia,55.746747,37.626435,Google
+ Munich ,Erika-Mann-Str. 33 80636 Munich Germany,48.14305556,11.54083333,Google
+ Oslo ,Aker Brygge Bryggegata 6 0250 Oslo Norway,59.90987,10.72598,Google
+ Paris ,8 Rue de Londres 75009 Paris France,48.8771,2.33,Google
+ Prague ,"Stroupeznickeho str. 3191/17 Prague, Czech Republic 150 00",50.070259,14.402642,Google
+ Stockholm ,Kungsbron 2 111 22 Stockholm Sweden,59.333432,18.054619,Google
+ Vienna ,Graben 19 1010 Wien Austria,48.209351,16.368419,Google
+ Warsaw ,Emilii Plater 53 00-113 Warsaw Poland ,52.233448,21.001668,Google
+ Wroclaw ,Gen. Jozefa Bema nr 2 50-265 Wroclaw Poland,51.117687,17.041737,Google
+ Zurich ,Brandschenkestrasse 110 8002 ZÃ¼rich Switzerland,47.365063,8.524425,Google
+ Belo Horizonte ,"Boulevard Corporate Tower Av. dos Andradas, 3000 - Andares 14-17 Santa EfigÃªnia Belo Horizonte 30260-070, Brazil",-19.920225,-43.920845,Google
+ Bogota ,"Carrera 11A 94 - 45 Centro Empresarial Oxo Center Bogota, Colombia",4.678267,-74.046901,Google
+ Buenos Aires ,"Alicia M. De Justo 350, 2nd Floor Buenos Aires, C1107AAH Argentina",-34.602734,-58.366992,Google
+ Mexico City ,"Google Mexico, S. de R.L. de C.V. Montes Urales 445 Lomas de Chapultepec Mexico City 11000, Mexico",19.4283793,-99.2065518,Google
+ Santiago ,"Costanera Sur Rio 2730 Las Condes, Santiago Chile",-33.413383,-70.605665,Google
+ Sao Paulo ,"Av. Brigadeiro Faria Lima, 3477 SÃ£o Paulo 04538-133, Brazil",-23.586479,-46.682078,Google
+ Ann Arbor ,"2300 Traverwood Dr. Ann Arbor, MI 48105 United States",42.3063848,-83.7140833,Google
+ Atlanta ,"10 10th Street NE Atlanta, GA 30309 United States",33.781827,-84.387301,Google
+ Austin ,"500 W 2nd St Suite 2900 Austin, TX 78701 United States",30.266035,-97.749237,Google
+ Boulder ,"2600 Pearl Street Boulder, CO 80302 United States",40.021693,-105.260139,Google
+ Boulder - Pearl Place ,"2930 Pearl St Boulder, CO 80301 United States",40.021948,-105.253978,Google
+ Boulder - Walnut ,"3333 Walnut St Boulder CO, 80301 United States",40.01993,-105.24936,Google
+ Cambridge ,"355 Main Street Cambridge, MA 02142 United States",42.362757,-71.087109,Google
+ Chapel Hill ,"200 West Franklin Street Chapel Hill, NC 27516 United States",35.912445,-79.058488,Google
+ Chicago - Carpenter ,"210 Carpenter Ave Chicago, IL 60607 United States",41.88609,-87.65333,Google
+ Chicago - Fulton Market ,"320 N. Morgan, Suite 600 Chicago, IL 60607 United States",41.8873457,-87.6526874,Google
+ Detroit ,"52 Henry St. 3rd Floor Detroit, MI 48201 United States",42.340458,-83.054494,Google
+ Irvine ,"19510 Jamboree Road Irvine, CA 92612 United States",33.658792,-117.859322,Google
+ Kirkland ,"777 6th Street South Kirkland, WA United States",47.669568,-122.196912,Google
+ Kitchener ,"51 Breithaupt Street Kitchener, ON N2H 5G5 Canada",43.4541137,-80.4992423,Google
+ Los Angeles ,"340 Main Street Los Angeles, CA 90291 United States",33.995939,-118.4766773,Google
+ Madison ,"811 E Washington Ave Suite 700 Madison, WI 53703 United States",43.081091,-89.374619,Google
+ Miami ,1450 Brickell Ave Ste 900 Miami FL 33131 United States,25.758473,-80.1932144,Google
+ Montreal ,"1253 McGill College Avenue Montreal, QC H3B 2Y5 Canada",45.50191,-73.570365,Google
+ Mountain View ,"1600 Amphitheatre Parkway Mountain View, CA 94043 United States",37.421512,-122.084101,Google
+ New York ,"111 8th Avenue New York, NY 10011 United States",40.741445,-74.003102,Google
+ Pittsburgh ,"6425 Penn Avenue Pittsburgh, PA 15206 United States",40.45716,-79.916596,Google
+ Playa Vista ,"12422 W. Bluff Creek Drive Playa Vista, CA 90094 United States",33.97684,-118.407244,Google
+ Portland ,"Wells Fargo Building, 309 SW 6th Ave Portland, OR 97204 United States",45.521622,-122.677458,Google
+ Redwood City ,"1600 Seaport Boulevard Redwood City, CA 94063 United States",37.512171,-122.201178,Google
+ Reston ,"1875 Explorer Street 10th Floor Reston, VA 20190 United States",38.958309,-77.359795,Google
+ San Bruno ,"901 Cherry Avenue San Bruno, CA 94066 United States",37.62816,-122.426491,Google
+ San Diego ,"6420 Sequence Dr Suite 400 San Diego, CA 92121 United States",32.909610,-117.181899,Google
+ San Francisco ,"345 Spear Street San Francisco, CA 94105 United States",37.789972,-122.390013,Google
+ Seattle ,"601 N. 34th Street Seattle, WA 98103 United States",47.649316,-122.350629,Google
+ Sunnyvale ,"803 11th Avenue Sunnyvale, CA 94089 United States",37.403694,-122.031583,Google
+ Toronto ,"111 Richmond Street West Toronto, ON M5H 2G4 Canada",43.650477,-79.383858,Google
+ Washington DC ,"25 Massachusetts Avenue Washington DC, 20001 United States",38.898337,-77.010286,Google
