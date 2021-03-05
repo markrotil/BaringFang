@@ -1,28 +1,26 @@
-Office,Address,State,Country,Company
-Cupertino,"<span itemprop=""streetAddress"">One Apple Park Way</span>","<span class=""location__state"">CA</span>",United States,Apple
-Austin,"<span itemprop=""streetAddress"">12801 Delcour Dr</span>","<span class=""location__state"">TX</span>",United States,Apple
-Cupertino,"<span itemprop=""streetAddress"">1 Infinite Loop</span>","<span class=""location__state"">CA</span>",United States,Apple
-Sydney,"<span itemprop=""streetAddress"">Level 3/20 Martin Pl</span>",,Australia,Apple
-Toronto,"<span itemprop=""streetAddress"">1600 120 Bremner Blvd</span>",,Canada,Apple
-Las Condes,"<span itemprop=""streetAddress"">Cerro El Plomo 5630</span>",,Chile,Apple
-Shanghai,"<span itemprop=""streetAddress"">Building 6, Block C, 88 Maji Road</span>",,China,Apple
-Paris,"<span itemprop=""streetAddress"">7 Place d'I√©na</span>",,France,Apple
-Hong Kong,"<span itemprop=""streetAddress"">1 Matheson St, Causeway Bay</span>",,Hong Kong,Apple
-Bengaluru,"<span itemprop=""streetAddress"">UB City No.24 Vittal Mallya Rd</span>",,India,Apple
-Jakarta,"<span itemprop=""streetAddress"">World Trade Center II, Jl. Jend. Sudirman, RT.8/RW.3, Kuningan, Karet, Setia Budi</span>",,Indonesia,Apple
-Cork,"<span itemprop=""streetAddress"">Hollyhill Ln</span>",,Ireland,Apple
-Tokyo,"<span itemprop=""streetAddress"">6 Chome-11-1 Roppongi, Minato-ku</span>",,Japan,Apple
-South Bay,"<span itemprop=""streetAddress"">Edificio Luen Pong 743-763 Av. da Praia Grande</span>",,Macao,Apple
-Kuala Lumpur,"<span itemprop=""streetAddress"">Level 11 Menara CIMB, Jalan Stesen Sentral 2, Kuala Lumpur Sentral</span>",,Malaysia,Apple
-Ciudad de M√©xico,"<span itemprop=""streetAddress"">Prolongacion Paseo de la Reforma 600, Santa Fe, PE√ëA BLANCA, √Ålvaro Obreg√≥n</span>",,Mexico,Apple
-Auckland,"<span itemprop=""streetAddress"">88 Shortland Street</span>",,New Zealand,Apple
-Auckland,"<span itemprop=""streetAddress"">PO Box 912015 Auckland Mail Centre</span>",,New Zealand,Apple
-Moskva,"<span itemprop=""streetAddress"">Romanov Pereulok, 2, —Å—Ç—Ä. 1</span>",,Russian Federation,Apple
-Riyadh,"<span itemprop=""streetAddress"">Level 30, Al Faisaliah Tower, King Fahad Highway, Olaya, P.O. Box 54995</span>",,Saudi Arabia,Apple
-Singapore,"<span itemprop=""streetAddress"">7 Ang Mo Kio Street 64</span>",,Singapore,Apple
-Seoul,"<span itemprop=""streetAddress"">3901, ASEM Tower; 517 Yeongdong-daero, Gangnam-Gu</span>",,Korea (Republic of),Apple
-Taipei City,"<span itemprop=""streetAddress"">Songren Rd., Xinyi District</span>",,"Taiwan, Province of China",Apple
-Khwaeng Pathum Wan,"<span itemprop=""streetAddress"">999/9 Rama I Rd</span>",,Thailand,Apple
-ƒ∞stanbul,"<span itemprop=""streetAddress"">Esentepe, B√ºy√ºkdere Cd. No:199 D:Kat:22-23</span>",,Turkey,Apple
-Dubai,"<span itemprop=""streetAddress"">Office 302, Level 3, Building 4, Emaar Square</span>",,United Arab Emirates,Apple
-Ho Chi Minh,"<span itemprop=""streetAddress"">Unit 901, Deutsches Haus Ho Chi Minh City. No. 33, Le Duan Blv., Ben Nghe Ward, District 1</span>",,Viet Nam,Apple
+Office,Address,State,Country,Company,Latitude,Longitude
+Cupertino,One Apple Park Way,CA,United States,Apple,37.33556016,-122.0146156
+Austin,12801 Delcour Dr,TX,United States,Apple,30.43473564,-97.73434005
+Cupertino,1 Infinite Loop,CA,United States,Apple,37.33204108,-122.0295966
+Sydney,Level 3/20 Martin Pl,,Australia,Apple,-33.86709686,151.2087845
+Toronto,1600 120 Bremner Blvd,,Canada,Apple,43.64314019,-79.38307697
+Las Condes,Cerro El Plomo 5630,,Chile,Apple,-33.40516438,-70.57428826
+Shanghai,"Building 6, Block C, 88 Maji Road",,China,Apple,31.34915288,121.5902057
+Paris,7 Place d'IÈna,,France,Apple,48.86413538,2.293747342
+Hong Kong,"1 Matheson St, Causeway Bay",,Hong Kong,Apple,22.27840911,114.182017
+Bengaluru,UB City No.24 Vittal Mallya Rd,,India,Apple,12.97190314,77.59604777
+Jakarta,"World Trade Center II, Jl. Jend. Sudirman, RT.8/RW.3, Kuningan, Karet, Setia Budi",,Indonesia,Apple,-6.215285617,106.8214543
+Cork,Hollyhill Ln,,Ireland,Apple,51.90259413,-8.503932373
+Tokyo,"6 Chome-11-1 Roppongi, Minato-ku",,Japan,Apple,35.65889289,139.7319346
+South Bay,Edificio Luen Pong 743-763 Av. da Praia Grande,,Macao,Apple,22.19309619,113.5426599
+Kuala Lumpur,"Level 11 Menara CIMB, Jalan Stesen Sentral 2, Kuala Lumpur Sentral",,Malaysia,Apple,3.136566179,101.6865361
+Ciudad de MÈxico,"Prolongacion Paseo de la Reforma 600, Santa Fe, Zedec Sta FÈ, ¡lvaro ObregÛn, 01219 Ciudad de MÈxico, CDMX, Mexico",,Mexico,Apple,19.37620857,-99.25787587
+Auckland,88 Shortland Street,,New Zealand,Apple,-36.84627985,174.7698164
+Moskva,"Romanov Pereulok, 2 ???????? 1",,Russia,Apple,55.75424144,37.6084979
+Singapore,7 Ang Mo Kio Street 64,,Singapore,Apple,1.389529259,103.8450053
+Seoul,"3901, ASEM Tower; 517 Yeongdong-daero, Gangnam-Gu",,Korea (Republic of),Apple,37.51190625,127.0593287
+Taipei City,"Songren Rd., Xinyi District",,Taiwan,Apple,25.0340014,121.5645298
+Khwaeng Pathum Wan,999/9 Rama I Rd,,Thailand,Apple,13.74623456,100.5384632
+?stanbul,"Levaz?m, Zorlu Center, 34340 Be?ikta?/?stanbul, Turkey",,Turkey,Apple,41.06641051,29.01721147
+Dubai,"Office 302, Level 3, Building 4, Emaar Square",,United Arab Emirates,Apple,25.20090767,55.27399914
+Ho Chi Minh,"Unit 901, Deutsches Haus Ho Chi Minh City. No. 33, Le Duan Blv., Ben Nghe Ward, District 1",,Viet Nam,Apple,10.7819158,106.7007791
