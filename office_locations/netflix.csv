@@ -1,15 +1,23 @@
-Office,Address,State,Country,Company
-Los Gatos,"<span itemprop=""streetAddress"">100 Winchester Cir</span>","<span class=""location__state"">CA</span>",United States,Netflix
-Los Angeles,"<span itemprop=""streetAddress"">5808 Sunset Blvd</span>","<span class=""location__state"">CA</span>",United States,Netflix
-New York,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">NY</span>",United States,Netflix
-Washington,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">DC</span>",United States,Netflix
-Paris,"<span itemprop=""streetAddress"">148 Rue de l'UniversitÃ©</span>",,France,Netflix
-Berlin,"<span itemprop=""streetAddress"">DE-BER-FRS, FriedrichstraÃŸe 88</span>",,Germany,Netflix
-Mexico City,"<span itemprop=""streetAddress""></span>",,Mexico,Netflix
-Amsterdam,"<span itemprop=""streetAddress"">Karperstraat 8</span>",,Netherlands,Netflix
-Amsterdam,"<span itemprop=""streetAddress"">Stadhouderskade 55</span>",,Netherlands,Netflix
-Manila,"<span itemprop=""streetAddress""></span>",,Philippines,Netflix
-Singapore,"<span itemprop=""streetAddress""></span>",,Singapore,Netflix
-Madrid,"<span itemprop=""streetAddress""></span>",,Spain,Netflix
-Hsinchu,"<span itemprop=""streetAddress""></span>",,"Taiwan, Province of China",Netflix
-London,"<span itemprop=""streetAddress""></span>",,United Kingdom,Netflix
+Office,Address,State,Country,Company,Latitude,Longitude
+Los Gatos,100 Winchester Cir,CA,United States,Netflix,37.25969453,-121.9626991
+Los Angeles,5808 Sunset Blvd,CA,United States,Netflix,34.09787553,-118.3163536
+New York,"245 W 17th St, New York, NY 10011, ",NY,United States,Netflix,40.74294856,-73.99976913
+Utah,"401 Jimmy Doolittle Rd #120, Salt Lake City",UT ,United States,Netflix,40.77803214,-112.0207697
+Washington,"1455 Pennsylvania Avenue NW, Washington, DC 20004, USA",DC,United States,Netflix,38.89797403,-77.03305943
+Paris,148 Rue de l'Université,,France,Netflix,48.86131755,2.309315585
+Berlin,"Friedrichstraße 88, 10117 Berlin, Germany",,Germany,Netflix,52.51772984,13.389605
+Mexico City,,,Mexico,Netflix,19.44119248,-99.15254786
+Amsterdam,Karperstraat 8,,Netherlands,Netflix,52.34804556,4.856101412
+Amsterdam,"9V5Q+G8 Amsterdam, Netherlands",,Netherlands,Netflix,52.35891869,4.888269796
+Manila,"New Era, Quezon City, 2516 Metro Manila, Philippines",,Philippines,Netflix,14.66435428,121.0514827
+Singapore,"9 Straits View, #23-07/12 Marina One West Tower, Singapore 018937",,Singapore,Netflix,1.276879461,103.8524011
+Madrid,,,Spain,Netflix,40.43333889,-3.728104483
+Hsinchu,"Room 15-7,Guansin Road Lane 27, Hsinchu, Taiwan",,"Taiwan, Province of China",Netflix,24.78485295,121.0180459
+London,"8 Mortimer St, Fitzrovia, London W1T 3NA, UK",,United Kingdom,Netflix,51.51884838,-0.138043146
+Argentina,"950 A, Av. Córdoba, CABA, Argentina",,Argentina,Netflix,-34.59887404,-58.38051274
+Brasil,"Alameda Xingu, 350 - Alphaville Industrial, Barueri - SP, 06455-911, Brazil",,Brazil,Netflix,-23.50474417,-46.8493674
+India,"G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",,India,Netflix,19.99286122,72.71619976
+Seoul,"63 Gongpyeong-dong, Jongno-gu, Seoul, South Korea",,Korea,Netflix,37.57153856,126.9832296
+Tokyo,"Japan, ?107-0062 Tokyo, Minato City, Minamiaoyama, 3 Chome?11?13 ???????",,Japan,Netflix,35.66661617,139.7139408
+Turkey,"Ç?nar, Metro, 5003 sok, Gümü? Plaza no 2 2 D: 312, 35090 Bornova/?zmir, Turkey",,Turkey,Netflix,38.44129467,27.1812187
+Rome,"Via Boncompagni, 10, 00187 Roma RM, Italy",,Italy,Netflix,41.90834063,12.49305937
