@@ -1,179 +1,179 @@
-Office,Address,State,Country,Company
-Redmond,"<span itemprop=""streetAddress"">Microsoft Corporation
-One Microsoft Way</span>","<span class=""location__state"">WA</span>",United States,Microsoft
-Albany,"<span itemprop=""streetAddress"">54 State St 7th Floor Suite 701</span>","<span class=""location__state"">NY</span>",United States,Microsoft
-Alpharetta,"<span itemprop=""streetAddress"">8000 Avalon Blvd #800</span>","<span class=""location__state"">GA</span>",United States,Microsoft
-Atlanta,"<span itemprop=""streetAddress"">84 Peachtree St</span>","<span class=""location__state"">GA</span>",United States,Microsoft
-Austin,"<span itemprop=""streetAddress"">10900 Stonelake Blvd #225</span>","<span class=""location__state"">TX</span>",United States,Microsoft
-Bellevue,"<span itemprop=""streetAddress"">700 Bellevue Way NE 22nd Floor</span>","<span class=""location__state"">WA</span>",United States,Microsoft
-Bentonville,"<span itemprop=""streetAddress"">2500 SE Technology Cir #4</span>","<span class=""location__state"">AR</span>",United States,Microsoft
-Bethesda,"<span itemprop=""streetAddress"">5404 Wisconsin Ave #700</span>","<span class=""location__state"">MD</span>",United States,Microsoft
-Birmingham,"<span itemprop=""streetAddress"">3535 Grandview Pkwy #335</span>","<span class=""location__state"">AL</span>",United States,Microsoft
-Bloomington,"<span itemprop=""streetAddress"">2203 E Empire St Suite J</span>","<span class=""location__state"">IL</span>",United States,Microsoft
-Blue Ash,"<span itemprop=""streetAddress"">4445 Lake Forest Dr #100</span>","<span class=""location__state"">OH</span>",United States,Microsoft
-Boise,"<span itemprop=""streetAddress"">401 W Front St #600</span>","<span class=""location__state"">ID</span>",United States,Microsoft
-Burlington,"<span itemprop=""streetAddress"">5 Wayside Rd</span>","<span class=""location__state"">MA</span>",United States,Microsoft
-Charlotte,"<span itemprop=""streetAddress"">Microsoft ArrowPoint 1, 8055 Microsoft Way</span>","<span class=""location__state"">NC</span>",United States,Microsoft
-Chicago,"<span itemprop=""streetAddress"">200 E Randolph St #200</span>","<span class=""location__state"">IL</span>",United States,Microsoft
-Columbus,"<span itemprop=""streetAddress"">8800 Lyra Dr #400</span>","<span class=""location__state"">OH</span>",United States,Microsoft
-Denver,"<span itemprop=""streetAddress"">7595 Technology Way #400</span>","<span class=""location__state"">CO</span>",United States,Microsoft
-Des Moines,"<span itemprop=""streetAddress"">1408 Locust St #102</span>","<span class=""location__state"">IA</span>",United States,Microsoft
-Detroit,"<span itemprop=""streetAddress"">1 Campus Martius #380</span>","<span class=""location__state"">MI</span>",United States,Microsoft
-Downers Grove,"<span itemprop=""streetAddress"">3025 Highland Pkwy #200</span>","<span class=""location__state"">IL</span>",United States,Microsoft
-Edina,"<span itemprop=""streetAddress"">3601 W 76th St #600</span>","<span class=""location__state"">MN</span>",United States,Microsoft
-Elkridge,"<span itemprop=""streetAddress"">6518 Meadowridge Rd</span>","<span class=""location__state"">MD</span>",United States,Microsoft
-Fairport,"<span itemprop=""streetAddress"">375 Woodcliff Dr</span>","<span class=""location__state"">NY</span>",United States,Microsoft
-Fargo,"<span itemprop=""streetAddress"">3900 Great Plains Dr S</span>","<span class=""location__state"">ND</span>",United States,Microsoft
-Fort Lauderdale,"<span itemprop=""streetAddress"">6750 N Andrews Ave #400</span>","<span class=""location__state"">FL</span>",United States,Microsoft
-Glen Allen,"<span itemprop=""streetAddress"">4301 Dominion Blvd #200</span>","<span class=""location__state"">VA</span>",United States,Microsoft
-Grand Rapids,"<span itemprop=""streetAddress"">38 Fulton St W #311</span>","<span class=""location__state"">MI</span>",United States,Microsoft
-Hartford,"<span itemprop=""streetAddress"">280 Trumbull, 280 Trumbull St 21st floor</span>","<span class=""location__state"">CT</span>",United States,Microsoft
-Houston,"<span itemprop=""streetAddress"">750 Town and Country Blvd</span>","<span class=""location__state"">TX</span>",United States,Microsoft
-Independence,"<span itemprop=""streetAddress"">6050 Oak Tree Blvd #300</span>","<span class=""location__state"">OH</span>",United States,Microsoft
-Indianapolis,"<span itemprop=""streetAddress"">8900 Keystone Crossing #950</span>","<span class=""location__state"">IN</span>",United States,Microsoft
-Irvine,"<span itemprop=""streetAddress"">3 Park Plaza #1600</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-Irving,"<span itemprop=""streetAddress"">7000 State Hwy 161</span>","<span class=""location__state"">TX</span>",United States,Microsoft
-Lehi,"<span itemprop=""streetAddress"">3400 Ashton Blvd #300</span>","<span class=""location__state"">UT</span>",United States,Microsoft
-Los Angeles,"<span itemprop=""streetAddress"">13031 W Jefferson Blvd #200</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-Louisville,"<span itemprop=""streetAddress"">9900 Corporate Campus Dr #3000</span>","<span class=""location__state"">KY</span>",United States,Microsoft
-Malvern,"<span itemprop=""streetAddress"">45 Liberty Blvd #210</span>","<span class=""location__state"">PA</span>",United States,Microsoft
-Memphis,"<span itemprop=""streetAddress"">6465 N Quail Hollow Rd #200</span>","<span class=""location__state"">TN</span>",United States,Microsoft
-Miami,"<span itemprop=""streetAddress"">1010 NE 2nd Ave</span>","<span class=""location__state"">FL</span>",United States,Microsoft
-Milwaukee,"<span itemprop=""streetAddress"">833 E Michigan St #860</span>","<span class=""location__state"">WI</span>",United States,Microsoft
-Morrisville,"<span itemprop=""streetAddress"">3025 Carrington Mill Blvd #200</span>","<span class=""location__state"">NC</span>",United States,Microsoft
-Mountain View,"<span itemprop=""streetAddress"">1065 La Avenida St</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-Nashville,"<span itemprop=""streetAddress"">oneC1TY Nashville, 8 City Blvd #403</span>","<span class=""location__state"">TN</span>",United States,Microsoft
-New York,"<span itemprop=""streetAddress"">11 Times Square</span>","<span class=""location__state"">NY</span>",United States,Microsoft
-Omaha,"<span itemprop=""streetAddress"">2111 S 67th St #100</span>","<span class=""location__state"">NE</span>",United States,Microsoft
-Overland Park,"<span itemprop=""streetAddress"">10801 Mastin St #620</span>","<span class=""location__state"">KS</span>",United States,Microsoft
-Pittsburgh,"<span itemprop=""streetAddress"">1001 Liberty Ave</span>","<span class=""location__state"">PA</span>",United States,Microsoft
-Pittsburgh,"<span itemprop=""streetAddress"">910 River Ave</span>","<span class=""location__state"">PA</span>",United States,Microsoft
-Portland,"<span itemprop=""streetAddress"">1414 NW Northrup St #900</span>","<span class=""location__state"">OR</span>",United States,Microsoft
-Reston,"<span itemprop=""streetAddress"">12012 Sunset Hills Rd</span>","<span class=""location__state"">VA</span>",United States,Microsoft
-Sacramento,"<span itemprop=""streetAddress"">1415 L St #200</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-San Antonio,"<span itemprop=""streetAddress"">401 E Sonterra Blvd</span>","<span class=""location__state"">TX</span>",United States,Microsoft
-San Diego,"<span itemprop=""streetAddress"">9255 Towne Centre Dr #400</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-San Francisco,"<span itemprop=""streetAddress"">555 California St #200, San Francisco</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-Southfield,"<span itemprop=""streetAddress"">1000 Town Center #1930</span>","<span class=""location__state"">MI</span>",United States,Microsoft
-St. Louis,"<span itemprop=""streetAddress"">4220 Duncan Ave #501</span>","<span class=""location__state"">MO</span>",United States,Microsoft
-Sunnyvale,"<span itemprop=""streetAddress"">755 N Mathilda Ave</span>","<span class=""location__state"">CA</span>",United States,Microsoft
-Tampa,"<span itemprop=""streetAddress"">5426 Bay Center Dr #700</span>","<span class=""location__state"">FL</span>",United States,Microsoft
-Tempe,"<span itemprop=""streetAddress"">60 E Rio Salado Pkwy #1200</span>","<span class=""location__state"">AZ</span>",United States,Microsoft
-Tulsa,"<span itemprop=""streetAddress"">7633 E 63rd Pl #300</span>","<span class=""location__state"">OK</span>",United States,Microsoft
-Woodbridge Township,"<span itemprop=""streetAddress"">101 Wood Metro Park LLC, 101 S Wood Ave, Iselin</span>","<span class=""location__state"">NJ</span>",United States,Microsoft
-Tirana,"<span itemprop=""streetAddress"">Str.“Papa Gjon Pali II” ABA Business Center, No. 1205, 1000</span>",,Albania,Microsoft
-Algiers,"<span itemprop=""streetAddress"">Algeria Business Center Pins Maritimes </span>",,Algeria,Microsoft
-Luanda,"<span itemprop=""streetAddress"">Condominio Bengo /2nd floor Street- Fernao de Sousa </span>",,Angola,Microsoft
-San Nicolas,"<span itemprop=""streetAddress"">710 Bouchard</span>",,Argentina,Microsoft
-North Ryde,"<span itemprop=""streetAddress"">1 Epping Rd</span>",,Australia,Microsoft
-Sydney,"<span itemprop=""streetAddress"">level 15/1 Martin Pl</span>",,Australia,Microsoft
-Wien,"<span itemprop=""streetAddress"">Am Europl. 3</span>",,Austria,Microsoft
-Bakı,"<span itemprop=""streetAddress"">90 A Nizami</span>",,Azerbaijan,Microsoft
-Dhaka,"<span itemprop=""streetAddress"">Laila Tower, 4th Floor 8 Gulshan Avenue, Gulshan - 1</span>",,Bangladesh,Microsoft
-Zaventem,"<span itemprop=""streetAddress"">Luchthaven Brussel Nationaal 1K</span>",,Belgium,Microsoft
-Santa Cruz de la Sierra,"<span itemprop=""streetAddress"">Av. San Martin y 4to Anillo Norte Edificio Torreo Duo, Piso 19, Of C.</span>",,Bolivia (Plurinational State of),Microsoft
-São Paulo,"<span itemprop=""streetAddress"">011 - Av. Pres. Juscelino Kubitschek, 1909 - Vila Olímpia</span>",,Brazil,Microsoft
-Bandar Seri Begawan,"<span itemprop=""streetAddress"">13-1, PGGMB Building Jalan Kianggeh</span>",,Brunei Darussalam,Microsoft
-Sofia,"<span itemprop=""streetAddress"">bul. ""Nikola Y. Vaptsarov"" 55</span>",,Bulgaria,Microsoft
-Calgary,"<span itemprop=""streetAddress"">110 9 Ave SW #710</span>",,Canada,Microsoft
-Mississauga,"<span itemprop=""streetAddress"">1950 Meadowvale Blvd</span>",,Canada,Microsoft
-Montréal,"<span itemprop=""streetAddress"">2000 Avenue McGill College 5th floor</span>",,Canada,Microsoft
-Santiago,"<span itemprop=""streetAddress"">Av. Vitacura 6844 , Vitacura </span>",,Chile,Microsoft
-Beijing,"<span itemprop=""streetAddress"">5 Danling St, Zhong Guan Cun, Haidian Qu</span>",,China,Microsoft
-Guangzhou,"<span itemprop=""streetAddress"">27th Floor of Office Tower 1 of the TaiKoo Hui, No.385 Tianhe Road, Tianhe District</span>",,China,Microsoft
-Shanghai,"<span itemprop=""streetAddress"">Building C9, 77 Hongcao Road, Xuhui District</span>",,China,Microsoft
-Bogotá,"<span itemprop=""streetAddress"">Calle 92 # 11 – 51 Piso 10</span>",,Colombia,Microsoft
-Medellín,"<span itemprop=""streetAddress"">Cl. 3 Sur ##43a-1</span>",,Colombia,Microsoft
-San José,"<span itemprop=""streetAddress"">Torre Universal, Piso 1, Ave. 12, Calle 42, C.P 10108, Sabana Noreste</span>",,Costa Rica,Microsoft
-Abidjan,"<span itemprop=""streetAddress"">Immeuble Karrath – 4ème étage 31, Avenue Noguès Plateau</span>",,Côte d'Ivoire,Microsoft
-Zagreb,"<span itemprop=""streetAddress"">Horvatova 82/6 </span>",,Croatia,Microsoft
-Nicosia,"<span itemprop=""streetAddress"">11 Limassol Avenue, Galatariotis Building 1st Floor </span>",,Cyprus,Microsoft
-Praha,"<span itemprop=""streetAddress"">Vyskočilova 1561/4a</span>",,Czech Republic,Microsoft
-Kongens Lyngby,"<span itemprop=""streetAddress"">Kanalvej 7</span>",,Denmark,Microsoft
-Santo Domingo,"<span itemprop=""streetAddress"">Blue Mall, Av. Winston Churchill 80</span>",,Dominican Republic,Microsoft
-Quito,"<span itemprop=""streetAddress"">Huertayacu, Nayón, Sector Huertayacu Quito</span>",,Ecuador,Microsoft
-Cairo,"<span itemprop=""streetAddress"">Smart Village Kilo 28, Cairo/Alex Desert Road Abou Rawash</span>",,Egypt,Microsoft
-San Salvador,"<span itemprop=""streetAddress"">89 Ave. Norte Edificio World Trade Center Torre 2 Nivel 5, Col. Escalón </span>",,El Salvador,Microsoft
-Tallinn,"<span itemprop=""streetAddress"">Akadeemia tee 15</span>",,Estonia,Microsoft
-Espoo,"<span itemprop=""streetAddress"">Keilalahdentie 2-4</span>",,Finland,Microsoft
-Issy-les-Moulineaux,"<span itemprop=""streetAddress"">39 Quai du Président Roosevelt</span>",,France,Microsoft
-München,"<span itemprop=""streetAddress"">Walter-Gropius-Straße 5</span>",,Germany,Microsoft
-Unterschleißheim,"<span itemprop=""streetAddress"">Konrad-Zuse-Straße 1</span>",,Germany,Microsoft
-Marousi,"<span itemprop=""streetAddress"">Leof. Kifisias 221</span>",,Greece,Microsoft
-Guatemala,"<span itemprop=""streetAddress"">Diagonal 6 10-50 zona 10 Torre Norte, Nivel 11 Edificio Interaméricas, World Financial Center.</span>",,Guatemala,Microsoft
-Tegucigalpa,"<span itemprop=""streetAddress"">Honduras Business Center Torre Nova piso 8 Parque Comercial Los Próceres</span>",,Honduras,Microsoft
-Hong Kong,"<span itemprop=""streetAddress"">15/F, Cyberport 2, 100 Cyberport Road</span>",,Hong Kong,Microsoft
-Budapest,"<span itemprop=""streetAddress"">Graphisoft Park 3. (Záhony u.) </span>",,Hungary,Microsoft
-Bengaluru,"<span itemprop=""streetAddress"">6, Bellandur Gate Rd, Adarsh Palm Retreat, Bellandur</span>",,India,Microsoft
-Gurugram,"<span itemprop=""streetAddress"">10th Floor, Tower B &amp; C, DLF Building No.5, Cyber City, DLF Phase III</span>",,India,Microsoft
-Mumbai,"<span itemprop=""streetAddress"">Windsor Building, Off, Near, CST Road, Kolivery Village, MMRDA Area, Bandra Kurla Complex, Santacruz East</span>",,India,Microsoft
-Jakarta,"<span itemprop=""streetAddress"">Jakarta Stock Exchange Building Tower II, lantai 18 Sudirman Central Business District Jl. Jend. Sudirman Kav. 52-53 </span>",,Indonesia,Microsoft
-Leopardstown,"<span itemprop=""streetAddress"">1 One Microsoft Place South County Business Park</span>",,Ireland,Microsoft
-Ra'anana,"<span itemprop=""streetAddress"">HaPnina St 2</span>",,Israel,Microsoft
-Milano,"<span itemprop=""streetAddress"">Viale Pasubio, 21</span>",,Italy,Microsoft
-Kingston,"<span itemprop=""streetAddress"">Pan Caribbean Building Tenth Floor 60 Knutsford Boulevard </span>",,Jamaica,Microsoft
-Tokyo,"<span itemprop=""streetAddress"">Shinagawa Grand Central Tower, 2-16-3 Konan Minato-ku</span>",,Japan,Microsoft
-Amman,"<span itemprop=""streetAddress"">King Hussein Business Park, Building GH3, 2nd Floor</span>",,Jordan,Microsoft
-Almaty,"<span itemprop=""streetAddress"">Dostyk Ave 38</span>",,Kazakhstan,Microsoft
-Nur-Sultan,"<span itemprop=""streetAddress"">Kabanbai batyra 15a, Business Center Q, block A, 5th floor</span>",,Kazakhstan,Microsoft
-Nairobi,"<span itemprop=""streetAddress"">8th Floor, The Oval Building Ring Road, Westlands </span>",,Kenya,Microsoft
-Rīga,"<span itemprop=""streetAddress"">Zaļā iela 1, Centra rajons</span>",,Latvia,Microsoft
-Bayrut,"<span itemprop=""streetAddress"">Berytus Park Building, 4th floor, Corner of Park Avenue &amp; Avenue Francaise, Minet El Hosn</span>",,Lebanon,Microsoft
-Tarabulus,"<span itemprop=""streetAddress"">Al -Shat Rd</span>",,Libya,Microsoft
-Vilnius,"<span itemprop=""streetAddress"">A pastatas, Baltic Hearts, Ukmergės g. 120</span>",,Lithuania,Microsoft
-Luxembourg,"<span itemprop=""streetAddress"">23 -29 Rives de Clausen</span>",,Luxembourg,Microsoft
-Kuala Lumpur,"<span itemprop=""streetAddress"">Level 17 &amp; 18, Menara Shell No. 211, Jalan Tun Sambanthan </span>",,Malaysia,Microsoft
-Luqa,"<span itemprop=""streetAddress"">SkyParks Business Centre, Level 5 Malta International Airport Luqa, </span>",,Malta,Microsoft
-Port Louis,"<span itemprop=""streetAddress"">7th floor Dias Pier Building La Caudan Waterfront</span>",,Mauritius,Microsoft
-Ciudad de México,"<span itemprop=""streetAddress"">Vasco de Quiroga 3200-Piso 7, Santa Fe, Zedec Sta Fé</span>",,Mexico,Microsoft
-Chișinău,"<span itemprop=""streetAddress"">6b, Strada Vlaicu Pârcălab 63</span>",,Moldova (Republic of),Microsoft
-Podgorica,"<span itemprop=""streetAddress"">Kralja Nikole 27a/IV BC Čelebić </span>",,Montenegro,Microsoft
-Casablanca,"<span itemprop=""streetAddress"">Twin Center Tour A - 15ème étage Bd Zerktouni </span>",,Morocco,Microsoft
-Rabat,"<span itemprop=""streetAddress"">68, angle avenue Omar Ibn Khattab et rue Oukaimeden</span>",,Morocco,Microsoft
-Schiphol,"<span itemprop=""streetAddress"">Evert van de Beekstraat 354 </span>",,Netherlands,Microsoft
-Auckland,"<span itemprop=""streetAddress"">Level 5 22 Viaduct Harbour Ave</span>",,New Zealand,Microsoft
-Wellington,"<span itemprop=""streetAddress"">Level 12 Vodafone on The Park 157 Lambton Quay</span>",,New Zealand,Microsoft
-Abuja,"<span itemprop=""streetAddress"">4th Street, Central Business District</span>",,Nigeria,Microsoft
-Lagos,"<span itemprop=""streetAddress""> 6th Floor, Civic Towers Ozumba Mbadiwe Road, beside Caverton Helicopters Victoria Island</span>",,Nigeria,Microsoft
-Skopje,"<span itemprop=""streetAddress"">floor 1, Sv. Kiril i Metodij 7</span>",,Macedonia (the former Yugoslav Republic of),Microsoft
-Oslo,"<span itemprop=""streetAddress"">Dronning Eufemias gate 71</span>",,Norway,Microsoft
-Islamabad,"<span itemprop=""streetAddress"">Ufone Tower, 11th Floor, Plot # 55-C, Main Jinnah Avenue, Blue Area</span>",,Pakistan,Microsoft
-Karachi,"<span itemprop=""streetAddress"">5th Floor, Executive Tower, Dolmen City, Plot HC-3, Block 4, Clifton Scheme no. 5</span>",,Pakistan,Microsoft
-Lahore,"<span itemprop=""streetAddress"">174 MB, Shabbir Sharif Rd, Sector J DHA Phase 6</span>",,Pakistan,Microsoft
-Panamá,"<span itemprop=""streetAddress"">34th &amp; 35th Floors Financial Park Tower</span>",,Panama,Microsoft
-Asunción,"<span itemprop=""streetAddress"">Av. Mcal. Lopez 3795 c/ Cruz del Chaco Edificio Citicenter – Piso 6</span>",,Paraguay,Microsoft
-Cercado de Lima,"<span itemprop=""streetAddress"">Via Principal 155</span>",,Peru,Microsoft
-Makati,"<span itemprop=""streetAddress"">8th Floor, 6750 Ayala Office Tower 6750 Ayala Avenue </span>",,Philippines,Microsoft
-Warszawa,"<span itemprop=""streetAddress"">al. Jerozolimskie 195A</span>",,Poland,Microsoft
-Lisboa,"<span itemprop=""streetAddress"">Rua do Fogo de Santelmo Lote 2.07.02</span>",,Portugal,Microsoft
-Guaynabo,"<span itemprop=""streetAddress"">City View Plaza I Suite 107 #48 State Road 165 Km 1.2 Guaynabo </span>",,Puerto Rico,Microsoft
-București,"<span itemprop=""streetAddress"">Piața Presei Libere nr. 3-5 Clădirea City Gate, Turnul de Sud, Etaj 2 Bucureşti, Sector 1 </span>",,Romania,Microsoft
-Moskva,"<span itemprop=""streetAddress"">Krylatskaya Ulitsa, 17</span>",,Russian Federation,Microsoft
-Moskva,"<span itemprop=""streetAddress"">Lesnaya Ulitsa, 9</span>",,Russian Federation,Microsoft
-Al Khobar,"<span itemprop=""streetAddress"">Al-Rashed Towers, 12th Floor King Fahad Road, Bandaria</span>",,Saudi Arabia,Microsoft
-Jeddah,"<span itemprop=""streetAddress"">Jameel Square, Prince Mohammed Bin Abdulaziz St, Al Andalus</span>",,Saudi Arabia,Microsoft
-Riyadh,"<span itemprop=""streetAddress"">Al-Yamamah University, Ground Floor Qassim Road</span>",,Saudi Arabia,Microsoft
-Riyadh,"<span itemprop=""streetAddress"">Building 7, Level 1, Zone A, The Business Gate، Airport Rd</span>",,Saudi Arabia,Microsoft
-Beograd,"<span itemprop=""streetAddress"">Španskih boraca 3</span>",,Serbia,Microsoft
-Singapore,"<span itemprop=""streetAddress"">182 Cecil St</span>",,Singapore,Microsoft
-Singapore,"<span itemprop=""streetAddress"">1 Marina Boulevard #22-01 One Marina Boulevard</span>",,Singapore,Microsoft
-Bratislava,"<span itemprop=""streetAddress"">Apollo Business Center II, blok E Prievozská 4D </span>",,Slovakia,Microsoft
-Ljubljana,"<span itemprop=""streetAddress"">Ameriška ulica 8</span>",,Slovenia,Microsoft
-Johannesburg,"<span itemprop=""streetAddress"">3012 William Nicol Drive Bryanston </span>",,South Africa,Microsoft
-Seoul,"<span itemprop=""streetAddress"">12th FL. Tower A, The-K Twin Towers, 50, Jongno 1 gil, Jongno-Gu</span>",,Korea (Republic of),Microsoft
-Pozuelo de Alarcón,"<span itemprop=""streetAddress"">Paseo club deportivo, Parque Empresarial La Finca, 1, Edificio 1</span>",,Spain,Microsoft
-Colombo,"<span itemprop=""streetAddress"">22nd Floor, Access Tower 02,  No. 278/4, Union Place</span>",,Sri Lanka,Microsoft
-Stockholm,"<span itemprop=""streetAddress"">Regeringsgatan 25</span>",,Sweden,Microsoft
-Wallisellen,"<span itemprop=""streetAddress"">Richtistrasse 3</span>",,Switzerland,Microsoft
-Taipei,"<span itemprop=""streetAddress"">18th Floor, No. 68, Section 5, Zhongxiao East Road, Xinyi District</span>",,"Taiwan, Province of China",Microsoft
-Bangkok,"<span itemprop=""streetAddress"">37th floor, unit 1-7, CRC Tower, All Seasons Place, 87/2 Wireless Road, Lumpini, Pathumwan District</span>",,Thailand,Microsoft
-Port of Spain,"<span itemprop=""streetAddress"">61 Mucurapo Rd</span>",,Trinidad and Tobago,Microsoft
-Tunis,"<span itemprop=""streetAddress"">Résidence Tanol rue du Lac Huron, Les Berges du Lac</span>",,Tunisia,Microsoft
-Istanbul,"<span itemprop=""streetAddress"">Bellevue Residences, Levent Mahallesi, Aydın Sokak No:7, Levent 34340</span>",,Turkey,Microsoft
-Kyiv,"<span itemprop=""streetAddress"">Eurasia, Zhylianska St, 75</span>",,Ukraine,Microsoft
-Dubai,"<span itemprop=""streetAddress"">Dubai Internet City Building No 8 Sheikh Zayed Road </span>",,United Arab Emirates,Microsoft
-Belfast,"<span itemprop=""streetAddress"">The Innovation Centre, Queens Road, Queens Island</span>",,United Kingdom,Microsoft
-Wokingham,"<span itemprop=""streetAddress"">Thames Valley Park Reading Berkshire </span>",,United Kingdom,Microsoft
-Montevideo,"<span itemprop=""streetAddress"">Mercosur Business Center Cebollati 1474 - Piso 5</span>",,Uruguay,Microsoft
-Caracas,"<span itemprop=""streetAddress"">Av. Principal de La Castellana Centro Letonia Torre ING Bank, Piso 8 </span>",,Venezuela (Bolivarian Republic of),Microsoft
-Hanoi,"<span itemprop=""streetAddress"">16th Floor, Capital Tower Building, 109 Tran Hung Dao</span>",,Viet Nam,Microsoft
+Office,Address,State,Country,Company,Latitude,Longitude
+Redmond,"Microsoft Corporation
+One Microsoft Way",WA,United States,Microsoft,47.6530558,-122.1422946
+Albany,54 State St 7th Floor Suite 701,NY,United States,Microsoft,42.64890151,-73.75214653
+Alpharetta,8000 Avalon Blvd #800,GA,United States,Microsoft,34.07061174,-84.27429
+Atlanta,84 Peachtree St,GA,United States,Microsoft,33.75605502,-84.38876931
+Austin,10900 Stonelake Blvd #225,TX,United States,Microsoft,30.40149495,-97.73525755
+Bellevue,700 Bellevue Way NE 22nd Floor,WA,United States,Microsoft,47.6172989,-122.2013203
+Bentonville,2500 SE Technology Cir #4,AR,United States,Microsoft,36.36084828,-94.18281523
+Bethesda,5404 Wisconsin Ave #700,MD,United States,Microsoft,38.96115519,-77.08646089
+Birmingham,3535 Grandview Pkwy #335,AL,United States,Microsoft,33.43932504,-86.72246792
+Bloomington,2203 E Empire St Suite J,IL,United States,Microsoft,40.48764558,-88.94479632
+Blue Ash,4445 Lake Forest Dr #100,OH,United States,Microsoft,39.2533469,-84.38316754
+Boise,401 W Front St #600,ID,United States,Microsoft,43.61153308,-116.2010775
+Burlington,5 Wayside Rd,MA,United States,Microsoft,42.48465134,-71.19150219
+Charlotte,"Microsoft ArrowPoint 1, 8055 Microsoft Way",NC,United States,Microsoft,35.13924513,-80.92263122
+Chicago,200 E Randolph St #200,IL,United States,Microsoft,41.88549035,-87.62145856
+Columbus,8800 Lyra Dr #400,OH,United States,Microsoft,40.14446181,-82.97282684
+Denver,7595 Technology Way #400,CO,United States,Microsoft,39.63080974,-104.9028036
+Des Moines,1408 Locust St #102,IA,United States,Microsoft,41.58444858,-93.63494979
+Detroit,1 Campus Martius #380,MI,United States,Microsoft,42.33258623,-83.04672647
+Downers Grove,3025 Highland Pkwy #200,IL,United States,Microsoft,41.8338436,-88.00566296
+Edina,3601 W 76th St #600,MN,United States,Microsoft,44.86462619,-93.3259569
+Elkridge,6518 Meadowridge Rd,MD,United States,Microsoft,39.19006639,-76.77759559
+Fairport,375 Woodcliff Dr,NY,United States,Microsoft,43.04093024,-77.4587937
+Fargo,3900 Great Plains Dr S,ND,United States,Microsoft,46.81220412,-96.8432289
+Fort Lauderdale,6750 N Andrews Ave #400,FL,United States,Microsoft,26.20927205,-80.14058034
+Glen Allen,4301 Dominion Blvd #200,VA,United States,Microsoft,37.65292795,-77.58414832
+Grand Rapids,38 Fulton St W #311,MI,United States,Microsoft,42.9631843,-85.66948797
+Hartford,"280 Trumbull, 280 Trumbull St 21st floor",CT,United States,Microsoft,41.7684742,-72.67447979
+Houston,750 Town and Country Blvd,TX,United States,Microsoft,29.77834789,-95.56014774
+Independence,6050 Oak Tree Blvd #300,OH,United States,Microsoft,41.3969966,-81.66269465
+Indianapolis,8900 Keystone Crossing #950,IN,United States,Microsoft,39.91722798,-86.11124057
+Irvine,3 Park Plaza #1600,CA,United States,Microsoft,33.67765842,-117.8386768
+Irving,7000 State Hwy 161,TX,United States,Microsoft,32.89993735,-96.96339109
+Lehi,3400 Ashton Blvd #300,UT,United States,Microsoft,40.43000685,-111.8943736
+Los Angeles,13031 W Jefferson Blvd #200,CA,United States,Microsoft,33.97558574,-118.4261574
+Louisville,9900 Corporate Campus Dr #3000,KY,United States,Microsoft,38.264636,-85.57471157
+Malvern,45 Liberty Blvd #210,PA,United States,Microsoft,40.05625976,-75.52169143
+Memphis,6465 N Quail Hollow Rd #200,TN,United States,Microsoft,35.10435202,-89.84787319
+Miami,1010 NE 2nd Ave,FL,United States,Microsoft,25.78438804,-80.1912116
+Milwaukee,833 E Michigan St #860,WI,United States,Microsoft,43.03734686,-87.90086999
+Morrisville,3025 Carrington Mill Blvd #200,NC,United States,Microsoft,35.86499164,-78.8331191
+Mountain View,1065 La Avenida St,CA,United States,Microsoft,37.41207252,-122.0709308
+Nashville,"oneC1TY Nashville, 8 City Blvd #403",TN,United States,Microsoft,36.1524076,-86.82013593
+New York,11 Times Square,NY,United States,Microsoft,40.75689213,-73.98963942
+Omaha,2111 S 67th St #100,NE,United States,Microsoft,41.23984641,-96.01420016
+Overland Park,10801 Mastin St #620,KS,United States,Microsoft,38.93298092,-94.70197393
+Pittsburgh,1001 Liberty Ave,PA,United States,Microsoft,40.44455384,-79.99456647
+Pittsburgh,910 River Ave,PA,United States,Microsoft,40.45346041,-79.99147756
+Portland,1414 NW Northrup St #900,OR,United States,Microsoft,45.53151643,-122.6862193
+Reston,12012 Sunset Hills Rd,VA,United States,Microsoft,38.95624708,-77.35772811
+Sacramento,1415 L St #200,CA,United States,Microsoft,38.57703574,-121.4884648
+San Antonio,401 E Sonterra Blvd,TX,United States,Microsoft,29.61697235,-98.48707696
+San Diego,9255 Towne Centre Dr #400,CA,United States,Microsoft,32.87620376,-117.2069189
+San Francisco,"555 California St #200, San Francisco",CA,United States,Microsoft,37.79227177,-122.4038958
+Southfield,1000 Town Center #1930,MI,United States,Microsoft,42.47675064,-83.2435749
+St. Louis,4220 Duncan Ave #501,MO,United States,Microsoft,38.6345708,-90.2503116
+Sunnyvale,755 N Mathilda Ave,CA,United States,Microsoft,37.39431398,-122.0302163
+Tampa,5426 Bay Center Dr #700,FL,United States,Microsoft,27.94416356,-82.53796815
+Tempe,60 E Rio Salado Pkwy #1200,AZ,United States,Microsoft,33.43150995,-111.9393248
+Tulsa,7633 E 63rd Pl #300,OK,United States,Microsoft,36.07280803,-95.8887254
+Woodbridge Township,"101 Wood Metro Park LLC, 101 S Wood Ave, Iselin",NJ,United States,Microsoft,40.5629692,-74.32687813
+Tirana," Albania Str.�Papa Gjon Pali II� ABA Business Center, No. 1205, 1000",,Albania,Microsoft,41.3203676,19.8228091
+Algiers,Algeria Business Center Pins Maritimes ,,Algeria,Microsoft,36.73754072,3.154369998
+Luanda,Condominio Bengo /2nd floor Street- Fernao de Sousa ,,Angola,Microsoft,-8.808405207,13.23191725
+San Nicolas,710 Bouchard,,Argentina,Microsoft,-34.59904785,-58.36973054
+North Ryde,1 Epping Rd,,Australia,Microsoft,-33.79614832,151.1384081
+Sydney,level 15/1 Martin Pl,,Australia,Microsoft,-33.86762197,151.2077532
+Wien,Am Europl. 3,,Austria,Microsoft,48.17082408,16.33390441
+Baku,90 A Nizami,,Azerbaijan,Microsoft,40.37181874,49.83756248
+Dhaka,"Laila Tower, 4th Floor 8 Gulshan Avenue, Gulshan - 1",,Bangladesh,Microsoft,23.79342279,90.41537664
+Zaventem,Luchthaven Brussel Nationaal 1K,,Belgium,Microsoft,50.89587086,4.485497544
+Santa Cruz de la Sierra,"Av. San Martin y 4to Anillo Norte Edificio Torreo Duo, Piso 19, Of C.",,Bolivia,Microsoft,-17.74873642,-63.17520583
+S�o Paulo,"011, Av. Pres. Juscelino Kubitschek, 1909 - Vila Ol�mpia, 04543-907, Brazil",,Brazil,Microsoft,-23.59134422,-46.68798471
+Bandar Seri Begawan,"13-1, PGGMB Building Jalan Kianggeh",,Brunei Darussalam,Microsoft,4.889956283,114.9439387
+Sofia,"bul. ""Nikola Y. Vaptsarov"" 55",,Bulgaria,Microsoft,42.66701361,23.32647244
+Calgary,110 9 Ave SW #710,,Canada,Microsoft,51.04498536,-114.0639107
+Mississauga,1950 Meadowvale Blvd,,Canada,Microsoft,43.61278087,-79.75382807
+Montreal,2000 Avenue McGill College 5th floor,,Canada,Microsoft,45.50284543,-73.57360732
+Santiago,"Av. Vitacura 6844 , Vitacura ",,Chile,Microsoft,-33.38726061,-70.5663829
+Beijing,"5 Danling St, Zhong Guan Cun, Haidian Qu",,China,Microsoft,39.97960952,116.3108804
+Guangzhou,"27th Floor of Office Tower 1 of the TaiKoo Hui, No.385 Tianhe Road, Tianhe District",,China,Microsoft,23.13500559,113.3321547
+Shanghai,"Building C9, 77 Hongcao Road, Xuhui District",,China,Microsoft,31.17293317,121.4095266
+Bogot�,Cl. 92 #11-51 Piso 10,,Colombia,Microsoft,4.673550939,-74.04853143
+Medell�n,"Carrera 43 A, Cl. 3 Sur #130, Medell�n, Antioquia, Colombia",,Colombia,Microsoft,6.201415679,-75.57225664
+San Jos�,"Torre Universal, Piso 1, Ave. 12, Calle 42, C.P 10108, Sabana Noreste",,Costa Rica,Microsoft,9.932189554,-84.09855016
+Abidjan," �tageAbidjan,Ivory Coast ",,C�te d'Ivoire,Microsoft,5.317000215,-4.01745156
+Zagreb,Horvatova 82/6 ,,Croatia,Microsoft,45.76475231,15.98018471
+Nicosia,"11 Limassol Avenue, Galatariotis Building 1st Floor ",,Cyprus,Microsoft,35.18258099,33.39113026
+Praha,Vysko?ilova 1561/4a,,Czech Republic,Microsoft,50.04820125,14.45725668
+Kongens Lyngby,Kanalvej 7,,Denmark,Microsoft,55.77305024,12.50886858
+Santo Domingo,"Blue Mall, Av. Winston Churchill 80",,Dominican Republic,Microsoft,18.47302556,-69.94101133
+Quito,"Nay�n, Sector Huertayacu Quito, 170530, Ecuador",,Ecuador,Microsoft,-0.153757451,-78.43002886
+Cairo,"Smart Village Kilo 28, Cairo/Alex Desert Road Abou Rawash",,Egypt,Microsoft,30.06056761,31.03271812
+San Salvador,"89 Ave. Norte Edificio World Trade Center Torre 2 Nivel 5, Col. Escalón ",,El Salvador,Microsoft,13.70834609,-89.24175732
+Tallinn,Akadeemia tee 15,,Estonia,Microsoft,59.39762651,24.6617175
+Espoo,Keilalahdentie 2-4,,Finland,Microsoft,60.17149119,24.8278317
+Issy-les-Moulineaux,R7M8+C9 Issy-les-Moulineaux,,France,Microsoft,48.83371745,2.265975042
+M�nchen,Walter-Gropius-Stra�e 5,,Germany,Microsoft,48.17787483,11.59382693
+Unterschlei�heim,Konrad-Zuse-Stra�e 1,,Germany,Microsoft,48.29007667,11.5812212
+Marousi,Leof. Kifisias 221,,Greece,Microsoft,38.06415335,23.80911604
+Guatemala,"Diagonal 6 10-50 zona 10 Torre Norte, Nivel 11 Edificio Interaméricas, World Financial Center.",,Guatemala,Microsoft,14.60135991,-90.50955049
+Tegucigalpa,Honduras Business Center Torre Nova piso 8 Parque Comercial Los Próceres,,Honduras,Microsoft,14.10199815,-87.18696821
+Hong Kong,"15/F, Cyberport 2, 100 Cyberport Road",,Hong Kong,Microsoft,22.26241368,114.1307213
+Budapest,"Budapest, M �p�let, Graphisoft park 3, 1031 Hungary",,Hungary,Microsoft,47.56123888,19.05454672
+Bengaluru,"6, Bellandur Gate Rd, Adarsh Palm Retreat, Bellandur",,India,Microsoft,12.92650163,77.6775781
+Gurugram,"10th Floor, Tower B &amp; C, DLF Building No.5, Cyber City, DLF Phase III",,India,Microsoft,28.48962574,77.09200827
+Mumbai,"Windsor Building, Off, Near, CST Road, Kolivery Village, MMRDA Area, Bandra Kurla Complex, Santacruz East",,India,Microsoft,19.06952167,72.86191014
+Jakarta,"Jakarta Stock Exchange Building Tower II, lantai 18 Sudirman Central Business District Jl. Jend. Sudirman Kav. 52-53 ",,Indonesia,Microsoft,-6.223257603,106.8087349
+Leopardstown,1 One Microsoft Place South County Business Park,,Ireland,Microsoft,53.26916683,-6.195996114
+Ra'anana,HaPnina St 2,,Israel,Microsoft,32.17582317,34.8897711
+Milano,"Viale Pasubio, 21",,Italy,Microsoft,45.48200281,9.182773583
+Kingston,Pan Caribbean Building Tenth Floor 60 Knutsford Boulevard ,,Jamaica,Microsoft,18.00699606,-76.78732121
+Tokyo,"Shinagawa Grand Central Tower, 2-16-3 Konan Minato-ku",,Japan,Microsoft,35.62697878,139.7404054
+Amman,"King Hussein Business Park, Building GH3, 2nd Floor",,Jordan,Microsoft,31.9719433,35.83394806
+Almaty,Dostyk Ave 38,,Kazakhstan,Microsoft,43.25257656,76.95711993
+Nur-Sultan,"Kabanbai batyra 15a, Business Center Q, block A, 5th floor",,Kazakhstan,Microsoft,51.13463095,71.4282118
+Nairobi,"8th Floor, The Oval Building Ring Road, Westlands ",,Kenya,Microsoft,-1.258323315,36.80566185
+R?ga,Za?? iela 1,,Latvia,Microsoft,56.95911918,24.11428253
+Bayrut,"Berytus Park Building, 4th floor, Corner of Park Avenue &amp; Avenue Francaise, Minet El Hosn",,Lebanon,Microsoft,33.90088657,35.50220831
+Tarabulus,Al -Shat Rd,,Libya,Microsoft,26.30395084,50.21053057
+Vilnius,"A pastatas, Baltic Hearts, Ukmergės g. 120",,Lithuania,Microsoft,54.70238786,25.26005243
+Luxembourg,23 -29 Rives de Clausen,,Luxembourg,Microsoft,49.61228391,6.14185362
+Kuala Lumpur,"Level 17 &amp; 18, Menara Shell No. 211, Jalan Tun Sambanthan ",,Malaysia,Microsoft,3.131062567,101.684571
+Luqa,"SkyParks Business Centre, Level 5 Malta International Airport Luqa, ",,Malta,Microsoft,35.85137204,14.49431394
+Port Louis,7th floor Dias Pier Building La Caudan Waterfront,,Mauritius,Microsoft,-20.16152342,57.49979738
+Ciudad de M�xico,"Vasco de Quiroga 3200-Piso 7, Santa Fe, Zedec Sta F�",,Mexico,Microsoft,19.36659863,-99.26450784
+Chi?in?u,"Vlaicu Pircalab St 63, Chi?in?u 2012, Moldova",,Moldova ,Microsoft,47.02376624,28.83591171
+Podgorica,"27a Kralja Nikole, Podgorica, Montenegro",,Montenegro,Microsoft,42.43595888,19.26093307
+Casablanca,"Boulevard Al Massira Al Khadra, Casablanca 20250, Morocco",,Morocco,Microsoft,33.5867027,-7.632296973
+Rabat,"68, angle avenue Omar Ibn Khattab et rue Oukaimeden",,Morocco,Microsoft,33.99824671,-6.843398831
+Schiphol,Evert van de Beekstraat 354 ,,Netherlands,Microsoft,52.30390505,4.750034727
+Auckland,Level 5 22 Viaduct Harbour Ave,,New Zealand,Microsoft,-36.84520046,174.7568829
+Wellington,Level 12 Vodafone on The Park 157 Lambton Quay,,New Zealand,Microsoft,-41.28223613,174.7773097
+Abuja,"4th Street, Central Business District",,Nigeria,Microsoft,9.060055148,7.491260671
+Lagos," 6th Floor, Civic Towers Ozumba Mbadiwe Road, beside Caverton Helicopters Victoria Island",,Nigeria,Microsoft,6.439945335,3.429425753
+Skopje,"floor 1, Sv. Kiril i Metodij 7",,Macedonia (the former Yugoslav Republic of),Microsoft,41.99309953,21.42568236
+Oslo,Dronning Eufemias gate 71,,Norway,Microsoft,59.90692659,10.7611034
+Islamabad,"Ufone Tower, 11th Floor, Plot # 55-C, Main Jinnah Avenue, Blue Area",,Pakistan,Microsoft,33.71883165,73.07214246
+Karachi,"5th Floor, Executive Tower, Dolmen City, Plot HC-3, Block 4, Clifton Scheme no. 5",,Pakistan,Microsoft,24.80283137,67.0294128
+Lahore,"174 MB, Shabbir Sharif Rd, Sector J DHA Phase 6",,Pakistan,Microsoft,31.48377223,74.45629738
+Panama,"34th & 35th Floors Financial Park Tower,  City, Panama",,Panama,Microsoft,9.010234905,-79.4766751
+Asunci�n,Asunci�n Paraguay Av. Mcal. Lopez 3795 c/ Cruz del Chaco Edificio Citicenter � Piso 6,,Paraguay,Microsoft,-25.29475428,-57.57944229
+Cercado de Lima,Via Principal 155,,Peru,Microsoft,-12.09726245,-77.0374503
+Makati,"8th Floor, 6750 Ayala Office Tower 6750 Ayala Avenue ",,Philippines,Microsoft,14.55322198,121.0256348
+Warszawa,al. Jerozolimskie 195A,,Poland,Microsoft,52.20043495,20.93609671
+Lisboa,Rua do Fogo de Santelmo Lote 2.07.02,,Portugal,Microsoft,52.20036919,20.93602161
+Guaynabo,City View Plaza I Suite 107 #48 State Road 165 Km 1.2 Guaynabo ,,Puerto Rico,Microsoft,18.4169194,-66.10825863
+Bucure?ti ,"Piața Presei Libere nr. 3-5 Clădirea City Gate, Turnul de Sud, Etaj 2 Bucureşti, Sector 1 ",,Romania,Microsoft,44.47762729,26.07138847
+Moskva,"Krylatskaya Ulitsa, 17",,Russia,Microsoft,55.75063801,37.42736763
+Moskva,"Lesnaya Ulitsa, 9",,Russia,Microsoft,55.77945302,37.58852083
+Al Khobar,"Al-Rashed Towers, 12th Floor King Fahad Road, Bandaria",,Saudi Arabia,Microsoft,26.29099787,50.17752748
+Jeddah,"Jameel Square, Prince Mohammed Bin Abdulaziz St, Al Andalus",,Saudi Arabia,Microsoft,21.54937136,39.1536736
+Riyadh,"Al-Yamamah University, Ground Floor Qassim Road",,Saudi Arabia,Microsoft,24.86263055,46.59182273
+Riyadh,"Building 7, Level 1, Zone A, The Business Gate، Airport Rd",,Saudi Arabia,Microsoft,24.73865225,46.67280563
+Beograd,Španskih boraca 3,,Serbia,Microsoft,44.81882322,20.42354224
+Singapore,182 Cecil St,,Singapore,Microsoft,1.278834818,103.8473901
+Singapore,1 Marina Boulevard #22-01 One Marina Boulevard,,Singapore,Microsoft,1.282590796,103.8525497
+Bratislava,"Prievozsk� 4, 821 09 Bratislava, Slovakia",,Slovakia,Microsoft,48.14608039,17.1393613
+Ljubljana,Ameri�ka ulica 8,,Slovenia,Microsoft,46.06700131,14.54131908
+Johannesburg,3012 William Nicol Drive Bryanston ,,South Africa,Microsoft,-26.04434756,28.01866562
+Seoul,"12th FL. Tower A, The-K Twin Towers, 50, Jongno 1 gil, Jongno-Gu",,Korea ,Microsoft,37.57485906,126.9791488
+Pozuelo de Alarcón,"Paseo club deportivo, Parque Empresarial La Finca, 1, Edificio 1",,Spain,Microsoft,40.41966634,-3.801252631
+Colombo,"22nd Floor, Access Tower 02,  No. 278/4, Union Place",,Sri Lanka,Microsoft,6.92021985,79.8574745
+Stockholm,Regeringsgatan 25,,Sweden,Microsoft,59.33171589,18.06784929
+Wallisellen,Richtistrasse 3,,Switzerland,Microsoft,47.4091358,8.590969956
+Taipei,"18th Floor, No. 68, Section 5, Zhongxiao East Road, Xinyi District",,"Taiwan, Province of China",Microsoft,25.04045737,121.5669002
+Bangkok,"37th floor, unit 1-7, CRC Tower, All Seasons Place, 87/2 Wireless Road, Lumpini, Pathumwan District",,Thailand,Microsoft,13.73941665,100.5478614
+Port of Spain,61 Mucurapo Rd,,Trinidad and Tobago,Microsoft,10.67218556,-61.5393657
+Tunis,"Rue du Lac Huron, Tunis 1053, Tunisia",,Tunisia,Microsoft,36.83563582,10.24848956
+Istanbul,"32C9+85 Be?ikta?, ?stanbul, Turkey",,Turkey,Microsoft,41.07101346,29.01784717
+Kyiv,"Eurasia, Zhylianska St, 75",,Ukraine,Microsoft,50.43915031,30.49879968
+Dubai,Dubai Internet City Building No 8 Sheikh Zayed Road ,,United Arab Emirates,Microsoft,25.09500517,55.16210009
+Belfast,"11 Queens Rd, Belfast BT3 9AD, United Kingdom",,United Kingdom,Microsoft,54.61282277,-5.902655384
+Wokingham,Thames Valley Park Reading Berkshire ,,United Kingdom,Microsoft,51.46128979,-0.927148039
+Montevideo,Mercosur Business Center Cebollati 1474 - Piso 5,,Uruguay,Microsoft,-34.91353221,-56.18247126
+Caracas,"Av. Principal de La Castellana Centro Letonia Torre ING Bank, Piso 8 ",,Venezuela,Microsoft,10.49716388,-66.85135569
+Hanoi,"16th Floor, Capital Tower Building, 109 Tran Hung Dao",,Viet Nam,Microsoft,21.02376124,105.8419174
