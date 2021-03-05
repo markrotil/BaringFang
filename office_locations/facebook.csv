@@ -1,86 +1,86 @@
-Office,Address,State,Country,Company
-Menlo Park,"<span itemprop=""streetAddress"">1 Hacker Way #15</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Altoona,"<span itemprop=""streetAddress"">100 Share Way NW</span>","<span class=""location__state"">IA</span>",United States,Facebook
-Austin,"<span itemprop=""streetAddress"">300 W 6th St</span>","<span class=""location__state"">TX</span>",United States,Facebook
-Cambridge,"<span itemprop=""streetAddress"">100 Binney St</span>","<span class=""location__state"">MA</span>",United States,Facebook
-Chicago,"<span itemprop=""streetAddress"">191 North Wacker, 191 N Upper Wacker Dr</span>","<span class=""location__state"">IL</span>",United States,Facebook
-Denver,"<span itemprop=""streetAddress"">1900 16th St Mall</span>","<span class=""location__state"">CO</span>",United States,Facebook
-Forest City,"<span itemprop=""streetAddress"">408 Social Circle</span>","<span class=""location__state"">NC</span>",United States,Facebook
-Fort Worth,"<span itemprop=""streetAddress"">5000 Like Way</span>","<span class=""location__state"">TX</span>",United States,Facebook
-Fremont,"<span itemprop=""streetAddress"">6530 Paseo Padre Pkwy</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Huntsville,"<span itemprop=""streetAddress"">5400 Prosperity Dr NW</span>","<span class=""location__state"">AL</span>",United States,Facebook
-Los Angeles,"<span itemprop=""streetAddress"">12721 W Jefferson Blvd</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Los Angeles,"<span itemprop=""streetAddress"">8500 Balboa Blvd, Van Nuys</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Los Lunas,"<span itemprop=""streetAddress"">4250 Messenger Loop NW</span>","<span class=""location__state"">NM</span>",United States,Facebook
-Menlo Park,"<span itemprop=""streetAddress"">1600 Willow Rd</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Mountain View,"<span itemprop=""streetAddress"">391 San Antonio Rd</span>","<span class=""location__state"">CA</span>",United States,Facebook
-New Albany,"<span itemprop=""streetAddress"">1 Community Circle</span>","<span class=""location__state"">OH</span>",United States,Facebook
-Newton County,"<span itemprop=""streetAddress"">Newton County, GA</span>","<span class=""location__state"">GA</span>",United States,Facebook
-New York,"<span itemprop=""streetAddress"">770 Broadway</span>","<span class=""location__state"">NY</span>",United States,Facebook
-Pittsburgh,"<span itemprop=""streetAddress"">4420 Bayard St #100</span>","<span class=""location__state"">PA</span>",United States,Facebook
-Prineville,"<span itemprop=""streetAddress"">735 S.W. Connect Way</span>","<span class=""location__state"">OR</span>",United States,Facebook
-Redmond,"<span itemprop=""streetAddress"">9845 Willows Rd</span>","<span class=""location__state"">WA</span>",United States,Facebook
-San Francisco,"<span itemprop=""streetAddress"">181 Fremont St</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Seattle,"<span itemprop=""streetAddress"">1101 Dexter Ave N</span>","<span class=""location__state"">WA</span>",United States,Facebook
-Sunnyvale,"<span itemprop=""streetAddress"">1180 Discovery Way</span>","<span class=""location__state"">CA</span>",United States,Facebook
-Washington,"<span itemprop=""streetAddress"">575 7th St NW</span>","<span class=""location__state"">DC</span>",United States,Facebook
-Ashburn,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">VA</span>",United States,Facebook
-Atlanta,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">GA</span>",United States,Facebook
-Dallas,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">TX</span>",United States,Facebook
-DeKalb,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">IL</span>",United States,Facebook
-Detroit,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">MI</span>",United States,Facebook
-Eagle Mountain,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">UT</span>",United States,Facebook
-Henrico,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">VA</span>",United States,Facebook
-Miami,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">FL</span>",United States,Facebook
-Papillion,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">NE</span>",United States,Facebook
-Reston,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">VA</span>",United States,Facebook
-Santa Clara,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">CA</span>",United States,Facebook
-Sausalito,"<span itemprop=""streetAddress""></span>","<span class=""location__state"">CA</span>",United States,Facebook
-Buenos Aires,"<span itemprop=""streetAddress""></span>",,Argentina,Facebook
-Docklands,"<span itemprop=""streetAddress"">720 Bourke St</span>",,Australia,Facebook
-Sydney,"<span itemprop=""streetAddress"">200 Barangaroo Ave</span>",,Australia,Facebook
-Bruxelles,"<span itemprop=""streetAddress"">Rue de la Loi 13</span>",,Belgium,Facebook
-Brasilia,"<span itemprop=""streetAddress""></span>",,Brazil,Facebook
-S√£o Paulo,"<span itemprop=""streetAddress"">700 R. Leopoldo Couto de Magalh√£es J√∫nior</span>",,Brazil,Facebook
-Montreal,"<span itemprop=""streetAddress""></span>",,Canada,Facebook
-Toronto,"<span itemprop=""streetAddress"">1201-661 University Ave</span>",,Canada,Facebook
-Vancouver,"<span itemprop=""streetAddress"">200 Burrard St Suites 400-500</span>",,Canada,Facebook
-Shanghai,"<span itemprop=""streetAddress""></span>",,China,Facebook
-Bogot√°,"<span itemprop=""streetAddress""></span>",,Colombia,Facebook
-Copenhagen,"<span itemprop=""streetAddress""></span>",,Denmark,Facebook
-Odense,"<span itemprop=""streetAddress"">M. P. Allerups Vej 48</span>",,Denmark,Facebook
-Paris,"<span itemprop=""streetAddress"">6 Rue M√©nars</span>",,France,Facebook
-Berlin,"<span itemprop=""streetAddress"">Kemperpl. 1</span>",,Germany,Facebook
-Hamburg,"<span itemprop=""streetAddress"">Caffamacherreihe 7</span>",,Germany,Facebook
-Hong Kong,"<span itemprop=""streetAddress"">60th Floor, One Island East, 18 Westlands Road, Quarry Bay</span>",,Hong Kong,Facebook
-Bengaluru,"<span itemprop=""streetAddress"">Microsoft Signature Building, Embassy Golf Links Business Park, Challaghatta</span>",,India,Facebook
-Gurugram,"<span itemprop=""streetAddress"">Level 6, Wing B, Two Horizon Centre, Golf Course Road, Harizan Colony, DLF Phase 5, Sector 43</span>",,India,Facebook
-Hyderabad,"<span itemprop=""streetAddress"">Building No. 20, Raheja Mindspace IT Park, HITEC City, Madhapur</span>",,India,Facebook
-Mumbai,"<span itemprop=""streetAddress"">Plot No C-66, G Block, Bandra Kurla Complex, Bandra East</span>",,India,Facebook
-New Delhi,"<span itemprop=""streetAddress""></span>",,India,Facebook
-Jakarta,"<span itemprop=""streetAddress"">49th floor Capital Place office building</span>",,Indonesia,Facebook
-Clonee,"<span itemprop=""streetAddress"">Portan</span>",,Ireland,Facebook
-Cork,"<span itemprop=""streetAddress""></span>",,Ireland,Facebook
-Dublin,"<span itemprop=""streetAddress"">4 Grand Canal Quay</span>",,Ireland,Facebook
-Tel Aviv-Yafo,"<span itemprop=""streetAddress"">Rothschild Blvd 22</span>",,Israel,Facebook
-Milano,"<span itemprop=""streetAddress"">Piazza Giuseppe Missori, 2</span>",,Italy,Facebook
-Tokyo,"<span itemprop=""streetAddress"">1-ch≈çme-9-10 Roppongi</span>",,Japan,Facebook
-Kuala Lumpur,"<span itemprop=""streetAddress"">39th Floor (West Tower) Q Sentral, 2A, Jalan Stesen Sentral 2, Kuala Lumpur Sentral</span>",,Malaysia,Facebook
-Ciudad de M√©xico,"<span itemprop=""streetAddress"">24 Pedregal</span>",,Mexico,Facebook
-Amsterdam,"<span itemprop=""streetAddress"">Jollemanhof 15</span>",,Netherlands,Facebook
-Auckland,"<span itemprop=""streetAddress""></span>",,New Zealand,Facebook
-Oslo,"<span itemprop=""streetAddress""></span>",,Norway,Facebook
-Taguig,"<span itemprop=""streetAddress"">32nd St</span>",,Philippines,Facebook
-Warsaw,"<span itemprop=""streetAddress""></span>",,Poland,Facebook
-Singapore,"<span itemprop=""streetAddress"">38 Beach Rd</span>",,Singapore,Facebook
-Johannesburg,"<span itemprop=""streetAddress""></span>",,South Africa,Facebook
-Seoul,"<span itemprop=""streetAddress"">142 Teheran-ro, Yeoksam 1(il)-dong, Gangnam-gu</span>",,Korea (Republic of),Facebook
-Madrid,"<span itemprop=""streetAddress"">Paseo de la Castellana, 180</span>",,Spain,Facebook
-Lule√•,"<span itemprop=""streetAddress""></span>",,Sweden,Facebook
-Stockholm,"<span itemprop=""streetAddress"">Malmtorgsgatan 8</span>",,Sweden,Facebook
-Geneva,"<span itemprop=""streetAddress""></span>",,Switzerland,Facebook
-Z√ºrich,"<span itemprop=""streetAddress"">Giessh√ºbelstrasse 30</span>",,Switzerland,Facebook
-Taipei,"<span itemprop=""streetAddress""></span>",,"Taiwan, Province of China",Facebook
-Bangkok,"<span itemprop=""streetAddress"">Gaysorn Tower, Lumphini, Pathum Wan District</span>",,Thailand,Facebook
-Dubai,"<span itemprop=""streetAddress""></span>",,United Arab Emirates,Facebook
-Greater London,"<span itemprop=""streetAddress"">1 Rathbone Square</span>",,United Kingdom,Facebook
+Office,Address,State,Country,Company,Latitude,Longitude
+Menlo Park,1 Hacker Way #15,CA,United States,Facebook,37.48534682,-122.1483213
+Altoona,100 Share Way NW,IA,United States,Facebook,41.6634326,-93.51016273
+Austin,300 W 6th St,TX,United States,Facebook,30.26940277,-97.7458353
+Cambridge,100 Binney St,MA,United States,Facebook,42.36536132,-71.08105777
+Chicago,"191 North Wacker, 191 N Upper Wacker Dr",IL,United States,Facebook,41.88559149,-87.63660067
+Denver,1900 16th St Mall,CO,United States,Facebook,39.75353559,-105.0032076
+Forest City,408 Social Circle,NC,United States,Facebook,35.31750031,-81.8263641
+Fort Worth,5000 Like Way,TX,United States,Facebook,32.98777147,-97.25500937
+Fremont,6530 Paseo Padre Pkwy,CA,United States,Facebook,37.55382191,-122.0670411
+Huntsville,5400 Prosperity Dr NW,AL,United States,Facebook,34.84124643,-86.63741154
+Los Angeles,12721 W Jefferson Blvd,CA,United States,Facebook,33.97910344,-118.4180723
+Los Angeles,"8500 Balboa Blvd, Van Nuys",CA,United States,Facebook,34.22467239,-118.4993088
+Los Lunas,4250 Messenger Loop NW,NM,United States,Facebook,34.8284064,-106.7854268
+Menlo Park,1600 Willow Rd,CA,United States,Facebook,37.48348735,-122.1495317
+Mountain View,391 San Antonio Rd,CA,United States,Facebook,37.4048963,-122.1106989
+New Albany,1 Community Circle,OH,United States,Facebook,40.06888917,-82.75052374
+Newton County,"100 Move Fast Way, Social Circle, GA 30025, United States",GA,United States,Facebook,33.60558515,-83.70208226
+New York,770 Broadway,NY,United States,Facebook,40.73076298,-73.99144604
+Pittsburgh,4420 Bayard St #100,PA,United States,Facebook,40.44764364,-79.9535881
+Prineville,735 S.W. Connect Way,OR,United States,Facebook,44.2959566,-120.8871227
+Redmond,9845 Willows Rd,WA,United States,Facebook,47.68756983,-122.1494026
+San Francisco,181 Fremont St,CA,United States,Facebook,37.78992688,-122.3953565
+Seattle,1101 Dexter Ave N,WA,United States,Facebook,47.62903677,-122.3430407
+Sunnyvale,1180 Discovery Way,CA,United States,Facebook,37.40928506,-122.0331807
+Washington,575 7th St NW,DC,United States,Facebook,38.89724148,-77.0216332
+Ashburn,,VA,United States,Facebook,39.02153271,-77.45600921
+Atlanta,"1000 Marietta Street Northwest,†Atlanta,†GA†30318.",GA,United States,Facebook,33.77874549,-84.41040727
+Dallas,"5956 Sherry Ln, Dallas, TX 75225, USA",TX,United States,Facebook,32.86226838,-96.80995662
+DeKalb,,IL,United States,Facebook,,
+Detroit,,MI,United States,Facebook,42.36689638,-83.08513056
+Eagle Mountain,"1499 Pony Express Pkwy, Eagle Mountain, UT 84005, United States",UT,United States,Facebook,40.2750197,-112.0168804
+Henrico,"Technology Blvd, Sandston, VA 23150, United States",VA,United States,Facebook,37.47688197,-77.23270084
+Miami,"1441 Brickell Ave, Miami, FL 33131, United States",FL,United States,Facebook,25.76065792,-80.19199167
+Papillion,"14734 Friend Plaza, Springfield, NE 68059, United States",NE,United States,Facebook,44.87392687,-95.58530651
+Reston,,VA,United States,Facebook,38.95982056,-77.3562952
+Santa Clara,,CA,United States,Facebook,37.34232571,-121.9560224
+Sausalito,,CA,United States,Facebook,37.85919698,-122.4988188
+Buenos Aires,"Tucum·n 1, C1049AAA CABA, Argentina",,Argentina,Facebook,-34.59456991,-58.36978555
+Docklands,720 Bourke St,,Australia,Facebook,-37.81772187,144.9491597
+Sydney,200 Barangaroo Ave,,Australia,Facebook,-33.86431221,151.2022359
+Bruxelles,Rue de la Loi 13,,Belgium,Facebook,50.84575636,4.367743127
+Brasilia,"Pilotiz Softwares E SoluÁıes Digitais, Setor de R·dio e Televis„o Sul Sala 533 - Asa Sul, BrasÌlia - DF, 70330-510, Brazil",,Brazil,Facebook,-15.79845292,-47.89292912
+S„o Paulo,"R. Leopoldo Couto de Magalh„es J˙nior, 700 - Itaim Bibi, S„o Paulo - SP, 04542-011, Brazil",,Brazil,Facebook,-23.58721811,-46.6795665
+Montreal,,,Canada,Facebook,45.51014171,-73.57570702
+Toronto,1201-661 University Ave,,Canada,Facebook,43.65939122,-79.38960365
+Vancouver,200 Burrard St Suites 400-500,,Canada,Facebook,49.28782823,-123.1150876
+Shanghai,"XFH7+2W Fengxian District, Shanghai, China",,China,Facebook,30.97778435,121.4648223
+Bogota,,,Colombia,Facebook,4.710392781,-74.07063919
+Copenhagen,,,Denmark,Facebook,55.6676654,12.57339478
+Odense,M. P. Allerups Vej 48,,Denmark,Facebook,55.3750117,10.48326774
+Paris,"6 Rue MÈnars, 75002 Paris, France",,France,Facebook,50.01908289,1.826764077
+Berlin,Kemperpl. 1,,Germany,Facebook,52.5109165,13.37223757
+Hamburg,Caffamacherreihe 7,,Germany,Facebook,53.55467956,9.983095025
+Hong Kong,"60th Floor, One Island East, 18 Westlands Road, Quarry Bay",,Hong Kong,Facebook,22.28638687,114.2134814
+Bengaluru,"Microsoft Signature Building, Embassy Golf Links Business Park, Challaghatta",,India,Facebook,12.95125546,77.6439281
+Gurugram,"Level 6, Wing B, Two Horizon Centre, Golf Course Road, Harizan Colony, DLF Phase 5, Sector 43",,India,Facebook,28.45137037,77.09635482
+Hyderabad,"Building No. 20, Raheja Mindspace IT Park, HITEC City, Madhapur",,India,Facebook,17.43336043,78.38586259
+Mumbai,"Plot No C-66, G Block, Bandra Kurla Complex, Bandra East",,India,Facebook,19.06042606,72.86508464
+New Delhi,,,India,Facebook,28.62140379,77.20795306
+Jakarta,49th floor Capital Place office building,,Indonesia,Facebook,-6.232325929,106.8215958
+Clonee,"Portan, Co. Meath, Ireland",,Ireland,Facebook,53.41808138,-6.432514919
+Cork,,,Ireland,Facebook,51.89996169,-8.473521695
+Dublin,4 Grand Canal Quay,,Ireland,Facebook,53.34422863,-6.238968332
+Tel Aviv-Yafo,Rothschild Blvd 22,,Israel,Facebook,32.0629983,34.77153987
+Milano,"Piazza Giuseppe Missori, 2",,Italy,Facebook,45.46155126,9.188160142
+Tokyo,"3 Chome-9-5 Roppongi, Minato City, Tokyo 106-0032, Japan",,Japan,Facebook,35.66379845,139.7340296
+Kuala Lumpur,"39th Floor (West Tower) Q Sentral, 2A, Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Malaysia",,Malaysia,Facebook,3.136701776,101.6873447
+Ciudad de MÈxico,"Pedregal 24, Huipulco, Tlalpan, 14370 , CDMX, Mexico",,Mexico,Facebook,19.29318456,-99.14961265
+Amsterdam,Jollemanhof 15,,Netherlands,Facebook,52.37720867,4.920613669
+Auckland,,,New Zealand,Facebook,-36.84627684,174.7702441
+Oslo,,,Norway,Facebook,59.90836013,10.75267395
+Taguig,32nd St,,Philippines,Facebook,14.55422174,121.0496898
+Warsaw,,,Poland,Facebook,52.23129683,21.00374707
+Singapore,38 Beach Rd,,Singapore,Facebook,1.295920999,103.8564077
+Johannesburg,,,South Africa,Facebook,-26.05685977,28.02353146
+Seoul,"142 Teheran-ro, Yeoksam 1(il)-dong, Gangnam-gu",,Korea ,Facebook,37.49988045,127.0349322
+Madrid,"Paseo de la Castellana, 180",,Spain,Facebook,40.46110207,-3.689101146
+LuleÂ,"Porsˆn, 977 54 LuleÂ, Sweden",,Sweden,Facebook,65.61637282,22.11705118
+Stockholm,Malmtorgsgatan 8,,Sweden,Facebook,59.33041259,18.06715721
+Geneva,,,Switzerland,Facebook,46.21499204,6.140826541
+Z¸rich,Giessh¸belstrasse 30,,Switzerland,Facebook,47.35833935,8.521216856
+Taipei,,,Taiwan,Facebook,25.04434362,121.5394911
+Bangkok,"Gaysorn Tower, Lumphini, Pathum Wan District",,Thailand,Facebook,13.74468283,100.5404683
+Dubai,"Injaz Building, 5th Floor Dubai - Dubai - United Arab Emirates",,United Arab Emirates,Facebook,25.13052083,55.15767321
+Greater London,1 Rathbone Square,,United Kingdom,Facebook,51.51695179,-0.134037386
