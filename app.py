@@ -4,8 +4,6 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
-import pandas as pd
-
 engine = create_engine(
     'postgres://qzewnmvp:KLrEMMwqNGoGYgkvTiI5pNANap7CuFbP@ziggy.db.elephantsql.com:5432/qzewnmvp', echo=False)
 
@@ -24,7 +22,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("BaringFang\templates")
 
 
 @app.route("/api/stocks")
