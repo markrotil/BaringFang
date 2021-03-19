@@ -1,5 +1,5 @@
 /**
-* Template Name: Day - v2.2.1
+* Template Name: Day - v4.0.1
 * Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -15,6 +15,7 @@ body {
 
 a {
   color: #cc1616;
+  text-decoration: none;
 }
 
 a:hover {
@@ -31,27 +32,31 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
-  display: none;
+  visibility: hidden;
+  opacity: 0;
   right: 15px;
   bottom: 15px;
-  z-index: 99999;
-}
-
-.back-to-top i {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 24px;
+  z-index: 996;
+  background: #cc1616;
   width: 40px;
   height: 40px;
-  background: #cc1616;
-  color: #fff;
   transition: all 0.4s;
 }
 
-.back-to-top i:hover {
+.back-to-top i {
+  font-size: 28px;
+  color: #fff;
+  line-height: 0;
+}
+
+.back-to-top:hover {
   background: #e72323;
   color: #fff;
+}
+
+.back-to-top.active {
+  visibility: visible;
+  opacity: 1;
 }
 
 /*--------------------------------------------------------------
@@ -113,18 +118,15 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
+  background: #191919;
+  font-size: 15px;
   height: 40px;
-  font-size: 14px;
-  transition: all 0.5s;
+  padding: 0;
   color: rgba(255, 255, 255, 0.6);
 }
 
-#topbar.topbar-scrolled {
-  top: -40px;
-}
-
 #topbar .contact-info a {
-  line-height: 1;
+  line-height: 0;
   color: rgba(255, 255, 255, 0.6);
   transition: 0.3s;
 }
@@ -135,16 +137,17 @@ h1, h2, h3, h4, h5, h6 {
 
 #topbar .contact-info i {
   color: #cc1616;
-  padding-right: 4px;
+  line-height: 0;
+  margin-right: 5px;
 }
 
-#topbar .contact-info i.icofont-phone {
+#topbar .contact-info .phone-icon {
   margin-left: 15px;
 }
 
 #topbar .social-links a {
-  color: rgba(255, 255, 255, 0.5);
-  padding-left: 15px;
+  color: rgba(255, 255, 255, 0.6);
+  padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
   transition: 0.3s;
@@ -154,27 +157,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-#topbar .social-links a:first-child {
-  border-left: 0;
-}
-
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(52, 58, 64, 0.2);
+  background: rgba(25, 25, 25, 0.95);
   transition: all 0.5s;
   z-index: 997;
-  top: 40px;
+  height: 70px;
 }
 
-#header.header-scrolled {
-  top: 0;
-  background: rgba(0, 0, 0, 0.9);
+#header.fixed-top {
+  background: #191919;
 }
 
 #header .logo {
-  font-size: 32px;
+  font-size: 30px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -191,238 +189,218 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
-@media (max-width: 992px) {
-  #header {
-    top: 0;
-    padding: 15px 0;
-    background: transparent;
-  }
-  #header .logo {
-    font-size: 28px;
-  }
-}
-
-.header-inner-pages {
-  background: rgba(0, 0, 0, 0.9) !important;
+.scrolled-offset {
+  margin-top: 70px;
 }
 
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-/* Desktop Navigation */
-.nav-menu ul {
+/**
+* Desktop Navigation 
+*/
+.navbar {
+  padding: 0;
+}
+
+.navbar ul {
   margin: 0;
   padding: 0;
-  list-style: none;
-}
-
-.nav-menu > ul {
   display: flex;
+  list-style: none;
+  align-items: center;
 }
 
-.nav-menu > ul > li {
+.navbar li {
   position: relative;
-  white-space: nowrap;
-  padding: 18px 15px;
+}
+
+.navbar > ul > li {
   margin-left: 5px;
-  transition: 0.3s;
 }
 
-.nav-menu a {
-  display: block;
-  position: relative;
-  color: #fff;
-  transition: 0.3s;
+.navbar a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 15px 24px 15px;
   font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  white-space: nowrap;
+  transition: 0.3s;
 }
 
-.nav-menu > ul > li:hover, .nav-menu .active {
+.navbar a i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+
+.navbar a:hover, .navbar .active, .navbar li:hover > a {
   background: #cc1616;
 }
 
-.nav-menu .drop-down ul {
+.navbar .dropdown ul {
   display: block;
   position: absolute;
   left: 0;
   top: calc(100% + 30px);
+  margin: 0;
+  padding: 10px 0;
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  padding: 10px 0;
   background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
 
-.nav-menu .drop-down:hover > ul {
+.navbar .dropdown ul li {
+  min-width: 200px;
+}
+
+.navbar .dropdown ul a {
+  padding: 10px 20px;
+  color: #191919;
+}
+
+.navbar .dropdown ul a i {
+  font-size: 12px;
+}
+
+.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
+  color: #fff;
+}
+
+.navbar .dropdown:hover > ul {
   opacity: 1;
   top: 100%;
   visibility: visible;
 }
 
-.nav-menu .drop-down li {
-  min-width: 180px;
-  position: relative;
-}
-
-.nav-menu .drop-down ul a {
-  padding: 10px 20px;
-  font-size: 14px;
-  font-weight: 500;
-  text-transform: none;
-  color: #191919;
-}
-
-.nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #e82d2d;
-}
-
-.nav-menu .drop-down > a:after {
-  content: "\ea99";
-  font-family: IcoFont;
-  padding-left: 5px;
-}
-
-.nav-menu .drop-down .drop-down ul {
+.navbar .dropdown .dropdown ul {
   top: 0;
   left: calc(100% - 30px);
+  visibility: hidden;
 }
 
-.nav-menu .drop-down .drop-down:hover > ul {
+.navbar .dropdown .dropdown:hover > ul {
   opacity: 1;
   top: 0;
   left: 100%;
-}
-
-.nav-menu .drop-down .drop-down > a {
-  padding-right: 35px;
-}
-
-.nav-menu .drop-down .drop-down > a:after {
-  content: "\eaa0";
-  font-family: IcoFont;
-  position: absolute;
-  right: 15px;
+  visibility: visible;
 }
 
 @media (max-width: 1366px) {
-  .nav-menu .drop-down .drop-down ul {
+  .navbar .dropdown .dropdown ul {
     left: -90%;
   }
-  .nav-menu .drop-down .drop-down:hover > ul {
+  .navbar .dropdown .dropdown:hover > ul {
     left: -100%;
   }
-  .nav-menu .drop-down .drop-down > a:after {
-    content: "\ea9d";
+}
+
+/**
+* Mobile Navigation 
+*/
+.mobile-nav-toggle {
+  color: #fff;
+  font-size: 28px;
+  cursor: pointer;
+  display: none;
+  line-height: 0;
+  transition: 0.5s;
+}
+
+.mobile-nav-toggle.bi-x {
+  color: #cc1616;
+}
+
+@media (max-width: 991px) {
+  .mobile-nav-toggle {
+    display: block;
+  }
+  .navbar ul {
+    display: none;
   }
 }
 
-/* Mobile Navigation */
-.mobile-nav-toggle {
+.navbar-mobile {
   position: fixed;
-  right: 15px;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9);
+  transition: 0.3s;
+  z-index: 999;
+}
+
+.navbar-mobile .mobile-nav-toggle {
+  position: absolute;
   top: 15px;
-  z-index: 9998;
-  border: 0;
-  background: none;
-  font-size: 24px;
-  transition: all 0.4s;
-  outline: none !important;
-  line-height: 1;
-  cursor: pointer;
-  text-align: right;
+  right: 15px;
 }
 
-.mobile-nav-toggle i {
-  color: #fff;
-}
-
-.mobile-nav {
-  position: fixed;
+.navbar-mobile ul {
+  display: block;
+  position: absolute;
   top: 55px;
   right: 15px;
   bottom: 15px;
   left: 15px;
-  z-index: 9999;
-  overflow-y: auto;
-  background: #fff;
-  transition: ease-in-out 0.2s;
-  opacity: 0;
-  visibility: hidden;
-  border-radius: 10px;
   padding: 10px 0;
+  background-color: #fff;
+  overflow-y: auto;
+  transition: 0.3s;
 }
 
-.mobile-nav * {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.mobile-nav a {
-  display: block;
-  position: relative;
-  color: #191919;
+.navbar-mobile a {
   padding: 10px 20px;
-  font-weight: 500;
-  outline: none;
+  font-size: 15px;
+  color: #191919;
 }
 
-.mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #e82d2d;
-  text-decoration: none;
+.navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
+  color: #cc1616;
+  background: none;
 }
 
-.mobile-nav .drop-down > a:after {
-  content: "\ea99";
-  font-family: IcoFont;
-  padding-left: 10px;
-  position: absolute;
-  right: 15px;
+.navbar-mobile .getstarted {
+  margin: 15px;
 }
 
-.mobile-nav .active.drop-down > a:after {
-  content: "\eaa1";
-}
-
-.mobile-nav .drop-down > a {
-  padding-right: 35px;
-}
-
-.mobile-nav .drop-down ul {
+.navbar-mobile .dropdown ul {
+  position: static;
   display: none;
-  overflow: hidden;
-}
-
-.mobile-nav .drop-down li {
-  padding-left: 20px;
-}
-
-.mobile-nav-overly {
-  width: 100%;
-  height: 100%;
-  z-index: 9997;
-  top: 0;
-  left: 0;
-  position: fixed;
-  background: rgba(0, 0, 0, 0.6);
-  overflow: hidden;
-  display: none;
-  transition: ease-in-out 0.2s;
-}
-
-.mobile-nav-active {
-  overflow: hidden;
-}
-
-.mobile-nav-active .mobile-nav {
+  margin: 10px 20px;
+  padding: 10px 0;
+  z-index: 99;
   opacity: 1;
   visibility: visible;
+  background: #fff;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
-.mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+.navbar-mobile .dropdown ul li {
+  min-width: 200px;
+}
+
+.navbar-mobile .dropdown ul a {
+  padding: 10px 20px;
+}
+
+.navbar-mobile .dropdown ul a i {
+  font-size: 12px;
+}
+
+.navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
+  color: #cc1616;
+}
+
+.navbar-mobile .dropdown > .dropdown-active {
+  display: block;
 }
 
 /*--------------------------------------------------------------
@@ -430,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
+  height: calc(100vh - 110px);
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
@@ -444,10 +422,6 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   right: 0;
-}
-
-#hero .container {
-  padding-top: 70px;
 }
 
 #hero h1 {
@@ -592,7 +566,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  padding-top: 0;
+  padding-top: 10px;
 }
 
 .why-us .box {
@@ -883,6 +857,71 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Portfolio Details
+--------------------------------------------------------------*/
+.portfolio-details {
+  padding-top: 40px;
+}
+
+.portfolio-details .portfolio-details-slider img {
+  width: 100%;
+}
+
+.portfolio-details .portfolio-details-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #cc1616;
+}
+
+.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #cc1616;
+}
+
+.portfolio-details .portfolio-info {
+  padding: 30px;
+  box-shadow: 0px 0 30px rgba(25, 25, 25, 0.08);
+}
+
+.portfolio-details .portfolio-info h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.portfolio-details .portfolio-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.portfolio-details .portfolio-info ul li + li {
+  margin-top: 10px;
+}
+
+.portfolio-details .portfolio-description {
+  padding-top: 30px;
+}
+
+.portfolio-details .portfolio-description h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.portfolio-details .portfolio-description p {
+  padding: 0;
+}
+
+/*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
 .pricing .box {
@@ -1088,14 +1127,6 @@ section {
   padding: 30px;
 }
 
-.contact .php-email-form .validate {
-  display: none;
-  color: red;
-  margin: 0 0 15px 0;
-  font-weight: 400;
-  font-size: 13px;
-}
-
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
@@ -1149,7 +1180,7 @@ section {
 }
 
 .contact .php-email-form input {
-  padding: 20px 15px;
+  padding: 10px 15px;
 }
 
 .contact .php-email-form textarea {
@@ -1192,13 +1223,6 @@ section {
 .breadcrumbs {
   padding: 15px 0;
   background: #efefef;
-  margin-top: 98px;
-}
-
-@media (max-width: 992px) {
-  .breadcrumbs {
-    margin-top: 50px;
-  }
 }
 
 .breadcrumbs h2 {
@@ -1224,90 +1248,6 @@ section {
   padding-right: 10px;
   color: #333333;
   content: "/";
-}
-
-/*--------------------------------------------------------------
-# Portfolio Details
---------------------------------------------------------------*/
-.portfolio-details {
-  padding-top: 40px;
-}
-
-.portfolio-details .portfolio-details-container {
-  position: relative;
-}
-
-.portfolio-details .portfolio-details-carousel {
-  position: relative;
-  z-index: 1;
-}
-
-.portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
-  margin-top: 5px;
-  text-align: left;
-}
-
-.portfolio-details .portfolio-details-carousel .owl-dot {
-  display: inline-block;
-  margin: 0 10px 0 0;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  background-color: #ddd !important;
-}
-
-.portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #cc1616 !important;
-}
-
-.portfolio-details .portfolio-info {
-  padding: 30px;
-  position: absolute;
-  right: 0;
-  bottom: -70px;
-  background: #fff;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  z-index: 2;
-}
-
-.portfolio-details .portfolio-info h3 {
-  font-size: 22px;
-  font-weight: 700;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
-}
-
-.portfolio-details .portfolio-info ul {
-  list-style: none;
-  padding: 0;
-  font-size: 15px;
-}
-
-.portfolio-details .portfolio-info ul li + li {
-  margin-top: 10px;
-}
-
-.portfolio-details .portfolio-description {
-  padding-top: 50px;
-}
-
-.portfolio-details .portfolio-description h2 {
-  width: 50%;
-  font-size: 26px;
-  font-weight: 700;
-  margin-bottom: 20px;
-}
-
-.portfolio-details .portfolio-description p {
-  padding: 0 0 0 0;
-}
-
-@media (max-width: 768px) {
-  .portfolio-details .portfolio-info {
-    position: static;
-    margin-top: 30px;
-  }
 }
 
 /*--------------------------------------------------------------
