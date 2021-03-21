@@ -13,6 +13,11 @@
   <link href="static\assets\img\favicon.png" rel="icon">
   <link href="static\assets\img\apple-touch-icon.png" rel="apple-touch-icon">
 
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+
   <!-- Google Fonts -->
   <link
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -559,6 +564,8 @@
     <section id="contact" class="contact">
       <div class="container">
 
+        <div id="map"></div>
+
         <div class="section-title">
           <span>Contact</span>
           <h2>Contact</h2>
@@ -720,10 +727,20 @@
   <script src="static\assets\vendor\isotope-layout\isotope.pkgd.min.js"></script>
   <script src="static\assets\vendor\php-email-form\validate.js"></script>
   <script src="static\assets\vendor\swiper\swiper-bundle.min.js"></script>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+
+  <!-- API key -->
+  <script type="text/javascript" src="static/js/config.js"></script>
+
   <!-- Template Main JS File -->
   <script src="static\assets\js\main.js"></script>
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
   <script src="{{ url_for('static', filename='js/employees.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/map.js') }}"></script>
 
 </body>
 

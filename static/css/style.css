@@ -1410,3 +1410,9 @@ section {
     margin: -20px 0 30px 0;
   }
 }
+
+#map,
+body,
+html {
+  height: 100%;
+}
