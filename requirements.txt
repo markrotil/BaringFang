@@ -9,6 +9,5 @@ gunicorn==19.9.0
 plotly==3.7.1
 requests==2.21.0
 requests-oauthlib==1.2.0
-scipy==1.2.1
 splinter==0.10.0
 SQLAlchemy==1.2.18
