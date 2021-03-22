@@ -16,32 +16,37 @@ var Amzn = new LeafIcon({ iconUrl: 'amazon pin.png' }),
 
 
 // Create the tile layer that will be the background of our map
-var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
-    id: "light-v10",
+    id: 'mapbox/streets-v11',
+    tileSize: 512,
+    zoomOffset: -1,
     accessToken: API_KEY
-});
+}).addTo(map);
 
 // Initialize all of the LayerGroups we'll be using
 var layers = {
-    COMING_SOON: new L.LayerGroup(),
-    EMPTY: new L.LayerGroup(),
-    LOW: new L.LayerGroup(),
-    NORMAL: new L.LayerGroup(),
-    OUT_OF_ORDER: new L.LayerGroup()
+    Amazon: new L.LayerGroup(),
+    Apple: new L.LayerGroup(),
+    Facebook: new L.LayerGroup(),
+    Google: new L.LayerGroup(),
+    Netflix: new L.LayerGroup(),
+    Microsoft: new L.LayerGroup()
+
 };
 
 // Create the map with our layers
 var map = L.map("map-id", {
     center: [40.73, -74.0059],
-    zoom: 12,
+    zoom: 35,
     layers: [
-        layers.COMING_SOON,
-        layers.EMPTY,
-        layers.LOW,
-        layers.NORMAL,
-        layers.OUT_OF_ORDER
+        layers.Amazon,
+        layers.Apple,
+        layers.Facebook,
+        layers.Google,
+        layers.Netflix,
+        layers.Microsoft
     ]
 });
 
@@ -50,11 +55,12 @@ lightmap.addTo(map);
 
 // Create an overlays object to add to the layer control
 var overlays = {
-    "Coming Soon": layers.COMING_SOON,
-    "Empty Stations": layers.EMPTY,
-    "Low Stations": layers.LOW,
-    "Healthy Stations": layers.NORMAL,
-    "Out of Order": layers.OUT_OF_ORDER
+    "Amazon": layers.Amazon,
+    "Apple": layers.Apple,
+    "Facebook": layers.Facebook,
+    "Google": layers.Google,
+    "Netflix": layers.Netflix,
+    "Microsoft": layers.Microsoft
 };
 
 // Create a control for our layers, add our overlay layers to it
@@ -75,33 +81,35 @@ info.addTo(map);
 
 // Initialize an object containing icons for each layer group
 var icons = {
-    COMING_SOON: Amzn,
+    Amazon: Amzn,
 
-    EMPTY: Appl,
+    Apple: Appl,
 
-    OUT_OF_ORDER: Googl,
+    Netflix: Googl,
 
-    LOW: FacB,
+    Facebook: FacB,
 
-    NORMAL: Nflx
+    Google: Nflx,
+
+    Microsoft: Micrsft
 };
 
 // Perform an API call to the Citi Bike Station Information endpoint
-d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", function (infoRes) {
+d3.json("/office", function (infoRes) {
 
     // When the first API call is complete, perform another call to the Citi Bike Station Status endpoint
-    d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_status.json", function (statusRes) {
+    d3.json("/office", function (Company) {
         var updatedAt = infoRes.last_updated;
-        var stationStatus = statusRes.data.stations;
-        var stationInfo = infoRes.data.stations;
+        var stationStatus = Company.off_list;
+        var stationInfo = infoRes.off_list;
 
         // Create an object to keep of the number of markers in each layer
         var stationCount = {
-            COMING_SOON: 0,
-            EMPTY: 0,
-            LOW: 0,
-            NORMAL: 0,
-            OUT_OF_ORDER: 0
+            Amazon: 0,
+            Apple: 0,
+            Facebook: 0,
+            Google: 0,
+            Netflix: 0
         };
 
         // Initialize a stationStatusCode, which will be used as a key to access the appropriate layers, icons, and station count for layer group
@@ -113,30 +121,34 @@ d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", functio
             // Create a new station object with properties of both station objects
             var station = Object.assign({}, stationInfo[i], stationStatus[i]);
             // If a station is listed but not installed, it's coming soon
-            if (!station.is_installed) {
-                stationStatusCode = "COMING_SOON";
+            if (!station.Company == "Amazon") {
+                stationStatusCode = "Amazon";
             }
-            // If a station has no bikes available, it's empty
-            else if (!station.num_bikes_available) {
-                stationStatusCode = "EMPTY";
+            // If a station has no bikes available, it's Apple
+            else if (!station.Company == "Apple") {
+                stationStatusCode = "Apple";
             }
             // If a station is installed but isn't renting, it's out of order
-            else if (station.is_installed && !station.is_renting) {
-                stationStatusCode = "OUT_OF_ORDER";
+            else if (!station.Company == "Facebook") {
+                stationStatusCode = "Facebook";
             }
-            // If a station has less than 5 bikes, it's status is low
-            else if (station.num_bikes_available < 5) {
-                stationStatusCode = "LOW";
+            // If a station has less than 5 bikes, it's status is Facebook
+            else if (!station.Company == "Google") {
+                stationStatusCode = "Google";
             }
-            // Otherwise the station is normal
+            // If a station has less than 5 bikes, it's status is Facebook
+            else if (!station.Company == "Microsoft") {
+                stationStatusCode = "Microsoft";
+            }
+            // Otherwise the station is Google
             else {
-                stationStatusCode = "NORMAL";
+                stationStatusCode = "Netflix";
             }
 
             // Update the station count
             stationCount[stationStatusCode]++;
             // Create a new marker with the appropriate icon and coordinates
-            var newMarker = L.marker([station.lat, station.lon], {
+            var newMarker = L.marker([station.lattitude, station.longitude], {
                 icon: icons[stationStatusCode]
             });
 
@@ -144,7 +156,7 @@ d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", functio
             newMarker.addTo(layers[stationStatusCode]);
 
             // Bind a popup to the marker that will  display on click. This will be rendered as HTML
-            newMarker.bindPopup(station.name + "<br> Capacity: " + station.capacity + "<br>" + station.num_bikes_available + " Bikes Available");
+            newMarker.bindPopup(station.Company + "<br> Office: " + station.Office + "<br>" + station.Country + " Bikes Available");
         }
 
         // Call the updateLegend function, which will... update the legend!
@@ -156,10 +168,14 @@ d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", functio
 function updateLegend(time, stationCount) {
     document.querySelector(".legend").innerHTML = [
         "<p>Updated: " + moment.unix(time).format("h:mm:ss A") + "</p>",
-        "<p class='out-of-order'>Out of Order Stations: " + stationCount.OUT_OF_ORDER + "</p>",
-        "<p class='coming-soon'>Stations Coming Soon: " + stationCount.COMING_SOON + "</p>",
-        "<p class='empty'>Empty Stations: " + stationCount.EMPTY + "</p>",
-        "<p class='low'>Low Stations: " + stationCount.LOW + "</p>",
-        "<p class='healthy'>Healthy Stations: " + stationCount.NORMAL + "</p>"
+        "<p" + stationCount.Netflix + "</p>",
+        "<p" + stationCount.Amazon + "</p>",
+        "<p" + stationCount.Apple + "</p>",
+        "<p" + stationCount.Facebook + "</p>",
+        "<p" + stationCount.Google + "</p>"
     ].join("");
 }
+
+
+console.log(infoRes);
+console.log(statusRes);
