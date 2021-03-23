@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="static/css/leaflet.extra-markers.min.css">
 
     <!-- Our CSS -->
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style2.css') }}">
 </head>
 
 <body>
@@ -44,10 +44,11 @@
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
 
     <!-- API Key -->
-    <script type="text/javascript" src="static/js/config.js"></script>
+    <script src="{{ url_for('static', filename='js/config.js') }}"></script>
 
     <!-- Our JavaScript -->
     <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+
 
 </body>
 

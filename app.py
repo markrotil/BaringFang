@@ -25,6 +25,11 @@ def home():
     return render_template("index.html")
 
 
+@app.route("/map")
+def map():
+    return render_template("map.html")
+
+
 @app.route("/api/stocks")
 def stockage():
 
