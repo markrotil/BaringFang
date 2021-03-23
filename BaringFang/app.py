@@ -30,6 +30,11 @@ def map():
     return render_template("map.html")
 
 
+@app.route("/")
+def fbprophet():
+    return render_template("map.html")
+
+
 @app.route("/api/stocks")
 def stockage():
 

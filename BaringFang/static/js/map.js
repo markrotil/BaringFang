@@ -94,7 +94,7 @@ var icons = {
 
 // Perform an API call to the Citi Bike Station Information endpoint
 d3.json("/office", function (infoRes) {
-
+    console.log(infoRes)
     // When the first API call is complete, perform another call to the Citi Bike Station Status endpoint
     d3.json("/office", function (Company) {
         var updatedAt = infoRes.last_updated;
@@ -174,6 +174,3 @@ function updateLegend(time, stationCount) {
     ].join("");
 }
 
-
-console.log(infoRes);
-console.log(statusRes);
